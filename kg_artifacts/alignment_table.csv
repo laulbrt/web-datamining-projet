@@ -1,0 +1,32 @@
+Private Entity,External URI,Label,Confidence,Description
+ent:Neil_Armstrong,wd:Q1615,Neil Armstrong,0.99,"American astronaut, first person on the Moon"
+ent:Buzz_Aldrin,wd:Q111283,Buzz Aldrin,0.99,American astronaut
+ent:Michael_Collins,wd:Q316852,Michael Collins,0.99,American astronaut
+ent:NASA,wd:Q23548,NASA,0.99,United States space agency
+ent:European_Space_Agency,wd:Q5,European Space Agency,0.99,intergovernmental organisation
+ent:ESA,wd:Q5,ESA,0.95,European Space Agency
+ent:Roscosmos,wd:Q209213,Roscosmos,0.99,Russian space agency
+ent:SpaceX,wd:Q193701,SpaceX,0.99,American aerospace company
+ent:Apollo_11,wd:Q43653,Apollo 11,0.99,first crewed Moon landing mission
+ent:Apollo,wd:Q183952,Apollo,0.98,NASA human spaceflight program
+ent:Artemis,wd:Q60743,Artemis,0.97,NASA lunar program
+ent:Hubble_Space_Telescope,wd:Q2513,Hubble Space Telescope,0.99,space telescope
+ent:James_Webb_Space_Telescope,wd:Q184252,James Webb Space Telescope,0.99,space observatory
+ent:International_Space_Station,wd:Q18,International Space Station,0.99,space station
+ent:ISS,wd:Q18,ISS,0.95,International Space Station
+ent:Ariane_5,wd:Q43652,Ariane 5,0.99,European heavy-lift rocket
+ent:Ariane,wd:Q179619,Ariane,0.98,European rocket family
+ent:Lockheed_Martin,wd:Q66526,Lockheed Martin,0.99,American aerospace company
+ent:Northrop_Grumman,wd:Q1454442,Northrop Grumman,0.99,American aerospace company
+ent:ISRO,wd:Q875744,ISRO,0.99,Indian space agency
+ent:JAXA,wd:Q167751,JAXA,0.99,Japanese space agency
+ent:Voyager_1,wd:Q48979,Voyager 1,0.99,NASA space probe
+ent:Perseverance,wd:Q27396516,Perseverance,0.99,Mars rover
+ent:Curiosity,wd:Q208441,Curiosity,0.99,Mars rover
+ent:Edwin_Hubble,wd:Q44711,Edwin Hubble,0.99,American astronomer
+ent:James_Webb,wd:Q465899,James Webb,0.99,NASA administrator
+ent:Yuri_Gagarin,wd:Q82438,Yuri Gagarin,0.99,Soviet cosmonaut
+ent:Valentina_Tereshkova,wd:Q62782,Valentina Tereshkova,0.99,Soviet cosmonaut
+ent:Chris_Hadfield,wd:Q56002,Chris Hadfield,0.99,Canadian astronaut
+ent:Space_Shuttle,wd:Q183952,Space Shuttle,0.92,NASA space transportation system
+ent:Boeing,wd:Q66,Boeing,0.99,American aerospace company

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Which missions were launched by NASA?",
+    "baseline_answer": "I am unable to access real-time information, therefore I cannot provide a list of missions launched by NASA. For the most up-to-date information on NASA missions, please visit their website.",
+    "rag_answer": "[No results]",
+    "sparql_query": "SELECT ?mission\nWHERE {\n  ?mission a space:SpaceMission .\n  ?mission owl:sameAs ?spaceMission .\n  ?spaceMission space:launchedBy ?spaceAgency .\n  ?spaceAgency owl:label \"NASA\".\n}",
+    "rag_correct": false,
+    "repaired": false
+  },
+  {
+    "question": "Who crewed the Apollo 11 mission?",
+    "baseline_answer": "The Apollo 11 mission was crewed by Neil Armstrong and Buzz Aldrin.",
+    "rag_answer": "[No results]",
+    "sparql_query": "SELECT ?person\nWHERE {\n  ?person wdt:P31 ?space .\n  ?space wdt:P31/wdt:P27 ?mission .\n  ?mission wdt:P179 ?mission_data .\n  ?mission_data dcam:crewedBy ?person .\n}",
+    "rag_correct": false,
+    "repaired": true
+  },
+  {
+    "question": "Which telescopes are operated by NASA?",
+    "baseline_answer": "The question and answer are as follows:\n\n**Question:** Which telescopes are operated by NASA?\n\n**Answer:** NASA operates the Hubble Space Telescope, the Chandra X-ray Observatory, and the Spitzer Space Telescope.",
+    "rag_answer": "[No results]",
+    "sparql_query": "SELECT ?telescope\nWHERE {\n  ?telescope owl:Class ?class .\n  ?class wgs:label \"NASA Telescope\".\n}",
+    "rag_correct": false,
+    "repaired": false
+  },
+  {
+    "question": "What missions is the Artemis program part of?",
+    "baseline_answer": "The Artemis program is part of NASA's Moon Exploration Program. The Moon Exploration Program is a series of missions to the Moon that will help us to better understand our lunar neighbor and prepare for future human exploration.",
+    "rag_answer": "[No results]",
+    "sparql_query": "SELECT ?mission\nWHERE {\n  ?mission a space:SpaceMission .\n  ?mission space:partOf ?spaceAgency .\n  ?spaceAgency owl:sameAs ?spaceAgency .\n  ?spaceAgency owl:hasPart ?space .\n}",
+    "rag_correct": false,
+    "repaired": false
+  },
+  {
+    "question": "Which organizations built the Hubble Space Telescope?",
+    "baseline_answer": "The Hubble Space Telescope was built by NASA. The telescope was launched into orbit in 1990 and has since made several important discoveries about the universe.",
+    "rag_answer": "[No results]",
+    "sparql_query": "SELECT ?organization\nWHERE {\n  ?organization wgs:label \"NASA\".\n  ?organization dcam:foundedBy ?space.\n}",
+    "rag_correct": false,
+    "repaired": false
+  }
+]

@@ -1,0 +1,242 @@
+@prefix conf: <http://space-exploration.org/alignment#> .
+@prefix ent: <http://space-exploration.org/entity/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix space: <http://space-exploration.org/ontology#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://space-exploration.org/alignment/conf_Apollo> a conf:AlignmentStatement ;
+    conf:confidence 0.98 ;
+    conf:externalURI wd:Q183952 ;
+    conf:privateEntity ent:Apollo .
+
+<http://space-exploration.org/alignment/conf_Apollo_11> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q43653 ;
+    conf:privateEntity ent:Apollo_11 .
+
+<http://space-exploration.org/alignment/conf_Ariane> a conf:AlignmentStatement ;
+    conf:confidence 0.98 ;
+    conf:externalURI wd:Q179619 ;
+    conf:privateEntity ent:Ariane .
+
+<http://space-exploration.org/alignment/conf_Ariane_5> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q43652 ;
+    conf:privateEntity ent:Ariane_5 .
+
+<http://space-exploration.org/alignment/conf_Artemis> a conf:AlignmentStatement ;
+    conf:confidence 0.97 ;
+    conf:externalURI wd:Q60743 ;
+    conf:privateEntity ent:Artemis .
+
+<http://space-exploration.org/alignment/conf_Boeing> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q66 ;
+    conf:privateEntity ent:Boeing .
+
+<http://space-exploration.org/alignment/conf_Buzz_Aldrin> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q111283 ;
+    conf:privateEntity ent:Buzz_Aldrin .
+
+<http://space-exploration.org/alignment/conf_Chris_Hadfield> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q56002 ;
+    conf:privateEntity ent:Chris_Hadfield .
+
+<http://space-exploration.org/alignment/conf_Curiosity> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q208441 ;
+    conf:privateEntity ent:Curiosity .
+
+<http://space-exploration.org/alignment/conf_ESA> a conf:AlignmentStatement ;
+    conf:confidence 0.95 ;
+    conf:externalURI wd:Q5 ;
+    conf:privateEntity ent:ESA .
+
+<http://space-exploration.org/alignment/conf_Edwin_Hubble> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q44711 ;
+    conf:privateEntity ent:Edwin_Hubble .
+
+<http://space-exploration.org/alignment/conf_European_Space_Agency> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q5 ;
+    conf:privateEntity ent:European_Space_Agency .
+
+<http://space-exploration.org/alignment/conf_Hubble_Space_Telescope> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q2513 ;
+    conf:privateEntity ent:Hubble_Space_Telescope .
+
+<http://space-exploration.org/alignment/conf_ISRO> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q875744 ;
+    conf:privateEntity ent:ISRO .
+
+<http://space-exploration.org/alignment/conf_ISS> a conf:AlignmentStatement ;
+    conf:confidence 0.95 ;
+    conf:externalURI wd:Q18 ;
+    conf:privateEntity ent:ISS .
+
+<http://space-exploration.org/alignment/conf_International_Space_Station> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q18 ;
+    conf:privateEntity ent:International_Space_Station .
+
+<http://space-exploration.org/alignment/conf_JAXA> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q167751 ;
+    conf:privateEntity ent:JAXA .
+
+<http://space-exploration.org/alignment/conf_James_Webb> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q465899 ;
+    conf:privateEntity ent:James_Webb .
+
+<http://space-exploration.org/alignment/conf_James_Webb_Space_Telescope> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q184252 ;
+    conf:privateEntity ent:James_Webb_Space_Telescope .
+
+<http://space-exploration.org/alignment/conf_Lockheed_Martin> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q66526 ;
+    conf:privateEntity ent:Lockheed_Martin .
+
+<http://space-exploration.org/alignment/conf_Michael_Collins> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q316852 ;
+    conf:privateEntity ent:Michael_Collins .
+
+<http://space-exploration.org/alignment/conf_NASA> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q23548 ;
+    conf:privateEntity ent:NASA .
+
+<http://space-exploration.org/alignment/conf_Neil_Armstrong> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q1615 ;
+    conf:privateEntity ent:Neil_Armstrong .
+
+<http://space-exploration.org/alignment/conf_Northrop_Grumman> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q1454442 ;
+    conf:privateEntity ent:Northrop_Grumman .
+
+<http://space-exploration.org/alignment/conf_Perseverance> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q27396516 ;
+    conf:privateEntity ent:Perseverance .
+
+<http://space-exploration.org/alignment/conf_Roscosmos> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q209213 ;
+    conf:privateEntity ent:Roscosmos .
+
+<http://space-exploration.org/alignment/conf_SpaceX> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q193701 ;
+    conf:privateEntity ent:SpaceX .
+
+<http://space-exploration.org/alignment/conf_Space_Shuttle> a conf:AlignmentStatement ;
+    conf:confidence 0.92 ;
+    conf:externalURI wd:Q183952 ;
+    conf:privateEntity ent:Space_Shuttle .
+
+<http://space-exploration.org/alignment/conf_Valentina_Tereshkova> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q62782 ;
+    conf:privateEntity ent:Valentina_Tereshkova .
+
+<http://space-exploration.org/alignment/conf_Voyager_1> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q48979 ;
+    conf:privateEntity ent:Voyager_1 .
+
+<http://space-exploration.org/alignment/conf_Yuri_Gagarin> a conf:AlignmentStatement ;
+    conf:confidence 0.99 ;
+    conf:externalURI wd:Q82438 ;
+    conf:privateEntity ent:Yuri_Gagarin .
+
+space:builtBy owl:equivalentProperty wdt:P176 .
+
+space:commandedBy rdfs:subPropertyOf wdt:P1029 .
+
+space:crewedBy owl:equivalentProperty wdt:P1029 .
+
+space:fundedBy owl:equivalentProperty wdt:P8324 .
+
+space:launchedBy owl:equivalentProperty wdt:P797 .
+
+space:locatedIn owl:equivalentProperty wdt:P131 .
+
+space:operatedBy owl:equivalentProperty wdt:P797 .
+
+space:partOf owl:equivalentProperty wdt:P361 .
+
+ent:Apollo owl:sameAs wd:Q183952 .
+
+ent:Apollo_11 owl:sameAs wd:Q43653 .
+
+ent:Ariane owl:sameAs wd:Q179619 .
+
+ent:Ariane_5 owl:sameAs wd:Q43652 .
+
+ent:Artemis owl:sameAs wd:Q60743 .
+
+ent:Boeing owl:sameAs wd:Q66 .
+
+ent:Buzz_Aldrin owl:sameAs wd:Q111283 .
+
+ent:Chris_Hadfield owl:sameAs wd:Q56002 .
+
+ent:Curiosity owl:sameAs wd:Q208441 .
+
+ent:ESA owl:sameAs wd:Q5 .
+
+ent:Edwin_Hubble owl:sameAs wd:Q44711 .
+
+ent:European_Space_Agency owl:sameAs wd:Q5 .
+
+ent:Hubble_Space_Telescope owl:sameAs wd:Q2513 .
+
+ent:ISRO owl:sameAs wd:Q875744 .
+
+ent:ISS owl:sameAs wd:Q18 .
+
+ent:International_Space_Station owl:sameAs wd:Q18 .
+
+ent:JAXA owl:sameAs wd:Q167751 .
+
+ent:James_Webb owl:sameAs wd:Q465899 .
+
+ent:James_Webb_Space_Telescope owl:sameAs wd:Q184252 .
+
+ent:Lockheed_Martin owl:sameAs wd:Q66526 .
+
+ent:Michael_Collins owl:sameAs wd:Q316852 .
+
+ent:NASA owl:sameAs wd:Q23548 .
+
+ent:Neil_Armstrong owl:sameAs wd:Q1615 .
+
+ent:Northrop_Grumman owl:sameAs wd:Q1454442 .
+
+ent:Perseverance owl:sameAs wd:Q27396516 .
+
+ent:Roscosmos owl:sameAs wd:Q209213 .
+
+ent:SpaceX owl:sameAs wd:Q193701 .
+
+ent:Space_Shuttle owl:sameAs wd:Q183952 .
+
+ent:Valentina_Tereshkova owl:sameAs wd:Q62782 .
+
+ent:Voyager_1 owl:sameAs wd:Q48979 .
+
+ent:Yuri_Gagarin owl:sameAs wd:Q82438 .
+

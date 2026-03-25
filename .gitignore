@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+env/
+.env
+
+# Claude Code
+.claude/
+
+# Large data files (too big for GitHub)
+kg_artifacts/expanded_kb.nt
+kg_artifacts/kge_data/train.txt
+kg_artifacts/kge_data/valid.txt
+kg_artifacts/kge_data/test.txt
+kg_artifacts/kge_results/*.npy
+crawler_output.jsonl
+extracted_knowledge.csv
+extracted_relations.csv
+
+# Models
+*.pt
+*.pkl
+*.bin
+*.model
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb.bak

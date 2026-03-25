@@ -1,0 +1,23 @@
+{
+  "20k": {
+    "n_triples": 20000,
+    "n_entities": 17569,
+    "n_relations": 133,
+    "TransE_MRR": 0.2424,
+    "DistMult_MRR": 0.2693
+  },
+  "50k": {
+    "n_triples": 40252,
+    "n_entities": 29436,
+    "n_relations": 173,
+    "TransE_MRR": 0.2606,
+    "DistMult_MRR": 0.2896
+  },
+  "full": {
+    "n_triples": 40252,
+    "n_entities": 29436,
+    "n_relations": 173,
+    "TransE_MRR": 0.2563,
+    "DistMult_MRR": 0.2848
+  }
+}
