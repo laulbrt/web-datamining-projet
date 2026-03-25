@@ -1,6 +1,6 @@
 # Space Exploration Knowledge Graph
 
-**DIA4 — Knowledge Engineering Project**  
+**DIA4 - Knowledge Engineering Project**  
 Domain: Space Exploration (NASA, ESA, missions, telescopes, astronauts)
 
 ---
@@ -52,11 +52,11 @@ project-root/
 
 | Step | RAM | GPU | Time |
 |------|-----|-----|------|
-| TD1 (crawl) | 2 GB | — | ~2 min |
-| TD2 (KB) | 4 GB | — | ~5 min |
-| TD5 SWRL | 2 GB | — | ~1 min |
+| TD1 (crawl) | 2 GB | - | ~2 min |
+| TD2 (KB) | 4 GB | - | ~5 min |
+| TD5 SWRL | 2 GB | - | ~1 min |
 | TD5 KGE (PyKEEN) | 8 GB | optional | 1–3 h |
-| TD5 KGE (lightweight) | 4 GB | — | ~10 min |
+| TD5 KGE (lightweight) | 4 GB | - | ~10 min |
 | TD6 RAG (Ollama gemma:2b) | 8 GB | optional | ~1 min/query |
 
 ---
@@ -95,40 +95,40 @@ python main_pipeline.py
 
 ### Individual steps
 
-**TD1 — Web Crawling**
+**TD1 - Web Crawling**
 ```bash
 python src/crawl/crawler.py
 # Output: crawler_output.jsonl
 ```
 
-**TD1 — NER + Relation Extraction**
+**TD1 - NER + Relation Extraction**
 ```bash
 python src/ie/ner_extraction.py
 # Input:  crawler_output.jsonl
 # Output: extracted_knowledge.csv, extracted_relations.csv
 ```
 
-**TD2 — KB Construction**
+**TD2 - KB Construction**
 ```bash
 python src/kg/build_kg.py          # Initial KB
 python src/kg/entity_alignment.py  # Wikidata alignment
 python src/kg/sparql_expansion.py  # SPARQL expansion (~80k triples)
 ```
 
-**TD5 — SWRL Reasoning**
+**TD5 - SWRL Reasoning**
 ```bash
 python src/reason/swrl_reasoning.py   # family.owl rules
 python src/reason/swrl_vs_kge.py      # space KB rule + embedding comparison
 ```
 
-**TD5 — KGE Training**
+**TD5 - KGE Training**
 ```bash
 python src/kge/kge_training.py
 # Trains TransE + DistMult
 # Output: kg_artifacts/kge_data/, kg_artifacts/kge_results/
 ```
 
-**TD6 — RAG Demo (CLI)**
+**TD6 - RAG Demo (CLI)**
 ```bash
 # Start Ollama first:
 ollama serve
@@ -201,4 +201,4 @@ The full KB can be regenerated with `python src/kg/sparql_expansion.py`.
 
 ## License
 
-MIT License — see `LICENSE`.
+MIT License - see `LICENSE`.

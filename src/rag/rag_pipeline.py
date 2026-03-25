@@ -427,7 +427,7 @@ def run_cli():
             continue
         
         if demo_mode:
-            print("\n[Demo mode — Ollama required for actual generation]")
+            print("\n[Demo mode - Ollama required for actual generation]")
             print("The system would generate a SPARQL query like:")
             print(f"""
 SELECT ?mission WHERE {{

@@ -1,5 +1,5 @@
 """
-Main Pipeline — runs the full project end-to-end
+Main Pipeline - runs the full project end-to-end
 Space Exploration Knowledge Graph
 
 Usage:
