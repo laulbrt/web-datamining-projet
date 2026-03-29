@@ -1,0 +1,97 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix space: <http://space-exploration.org/ontology#> .
+
+space:LaunchVehicle a owl:Class ;
+    rdfs:label "LaunchVehicle"@en .
+
+space:Telescope a owl:Class ;
+    rdfs:label "Telescope"@en ;
+    rdfs:subClassOf space:Spacecraft .
+
+space:budget a owl:DatatypeProperty ;
+    rdfs:label "budget"@en ;
+    rdfs:domain space:SpaceMission .
+
+space:builtBy a owl:ObjectProperty ;
+    rdfs:label "builtBy"@en ;
+    rdfs:domain space:Spacecraft ;
+    rdfs:range space:Organization .
+
+space:commandedBy a owl:ObjectProperty ;
+    rdfs:label "commandedBy"@en ;
+    rdfs:domain space:SpaceMission ;
+    rdfs:range space:Astronaut .
+
+space:crewedBy a owl:ObjectProperty ;
+    rdfs:label "crewedBy"@en ;
+    rdfs:domain space:SpaceMission ;
+    rdfs:range space:Astronaut .
+
+space:foundedYear a owl:DatatypeProperty ;
+    rdfs:label "foundedYear"@en ;
+    rdfs:domain space:SpaceMission .
+
+space:fundedBy a owl:ObjectProperty ;
+    rdfs:label "fundedBy"@en ;
+    rdfs:domain space:SpaceProgram ;
+    rdfs:range space:Organization .
+
+space:launchDate a owl:DatatypeProperty ;
+    rdfs:label "launchDate"@en ;
+    rdfs:domain space:SpaceMission .
+
+space:launchedBy a owl:ObjectProperty ;
+    rdfs:label "launchedBy"@en ;
+    rdfs:domain space:SpaceMission ;
+    rdfs:range space:SpaceAgency .
+
+space:locatedIn a owl:ObjectProperty ;
+    rdfs:label "locatedIn"@en ;
+    rdfs:domain space:Organization ;
+    rdfs:range space:Location .
+
+space:missionDuration a owl:DatatypeProperty ;
+    rdfs:label "missionDuration"@en ;
+    rdfs:domain space:SpaceMission .
+
+space:operatedBy a owl:ObjectProperty ;
+    rdfs:label "operatedBy"@en ;
+    rdfs:domain space:Spacecraft ;
+    rdfs:range space:SpaceAgency .
+
+space:orbitAltitude a owl:DatatypeProperty ;
+    rdfs:label "orbitAltitude"@en ;
+    rdfs:domain space:SpaceMission .
+
+space:partOf a owl:ObjectProperty ;
+    rdfs:label "partOf"@en ;
+    rdfs:domain space:SpaceMission ;
+    rdfs:range space:SpaceProgram .
+
+space:Location a owl:Class ;
+    rdfs:label "Location"@en .
+
+space:Person a owl:Class ;
+    rdfs:label "Person"@en .
+
+space:Astronaut a owl:Class ;
+    rdfs:label "Astronaut"@en ;
+    rdfs:subClassOf space:Person .
+
+space:SpaceAgency a owl:Class ;
+    rdfs:label "SpaceAgency"@en ;
+    rdfs:subClassOf space:Organization .
+
+space:SpaceProgram a owl:Class ;
+    rdfs:label "SpaceProgram"@en .
+
+space:Spacecraft a owl:Class ;
+    rdfs:label "Spacecraft"@en .
+
+space:Organization a owl:Class ;
+    rdfs:label "Organization"@en .
+
+space:SpaceMission a owl:Class ;
+    rdfs:label "SpaceMission"@en .
+
