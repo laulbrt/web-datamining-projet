@@ -1,0 +1,1000 @@
+<http://space-exploration.org/entity/Gaouette> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/Astronaut_945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://www.wikidata.org/entity/Q227030> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q145> .
+<http://space-exploration.org/entity/Orbiting_Carbon_Observatory_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Astronaut_2547> <http://www.wikidata.org/prop/direct/P27> "US" .
+<http://www.wikidata.org/entity/Q284684> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/SpaceMission_Hubble_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://space-exploration.org/entity/Astronaut_2161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://www.wikidata.org/entity/Q18412570> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q6686> .
+<http://www.wikidata.org/entity/Q2556> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q119> .
+<http://www.wikidata.org/entity/Q41454287> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q89> .
+<http://space-exploration.org/entity/Orbiter_170> <http://www.w3.org/2000/01/rdf-schema#label> "Orbiter 170" .
+<http://www.wikidata.org/entity/Q16182942> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q66> .
+<http://www.wikidata.org/entity/Q722127> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://space-exploration.org/entity/SpaceMission_Chandra_64> <http://www.w3.org/2000/01/rdf-schema#label> "Chandra 64" .
+<http://space-exploration.org/entity/the_Royal_Astronomical_Society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://space-exploration.org/entity/Caleb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/SpaceMission_Artemis_73> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/SpaceMission_Pioneer_39> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q875744> .
+<http://space-exploration.org/entity/Astronaut_1822> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1822" .
+<http://space-exploration.org/entity/Probe_233> <http://space-exploration.org/ontology#orbitAltitude> "1365" .
+<http://space-exploration.org/entity/Astronaut_1298> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1298" .
+<http://space-exploration.org/entity/Orbiter_32> <http://space-exploration.org/ontology#orbitAltitude> "360" .
+<http://space-exploration.org/entity/Interim_Control_Module> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/C_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://www.wikidata.org/entity/Q1338912> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q30> .
+<http://space-exploration.org/entity/Edward_White> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/Defense_News> <http://www.w3.org/2000/01/rdf-schema#label> "Defense News" .
+<http://www.wikidata.org/entity/Q7572053> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q283544> .
+<http://space-exploration.org/entity/The_US_National_Aeronautics_and_Space_Administration> <http://www.w3.org/2000/01/rdf-schema#label> "The U.S. National Aeronautics and Space Administration" .
+<http://www.wikidata.org/entity/Q130943130> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1419> .
+<http://www.wikidata.org/entity/Q136559991> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q171> .
+<http://www.wikidata.org/entity/Q1802273> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q420> .
+<http://www.wikidata.org/entity/Q77842043> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q120793> .
+<http://www.wikidata.org/entity/Q121566734> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://www.wikidata.org/entity/Q610702> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q248> .
+<http://space-exploration.org/entity/Lander_17> <http://space-exploration.org/ontology#orbitAltitude> "285" .
+<http://space-exploration.org/entity/Dick_Gordon> <http://www.w3.org/2000/01/rdf-schema#label> "Dick Gordon" .
+<http://www.wikidata.org/entity/Q27046> <http://www.wikidata.org/prop/direct/P571> "-250000000-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q16461> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/Astronaut_1001> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1001" .
+<http://space-exploration.org/entity/Astronaut_1328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://www.wikidata.org/entity/Q312052> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q107667> .
+<http://space-exploration.org/entity/SpaceMission_Apollo_88> <http://space-exploration.org/ontology#launchDate> "1983" .
+<http://space-exploration.org/entity/Astronaut_626> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q193534> .
+<http://space-exploration.org/entity/Astronaut_2968> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q60045> .
+<http://space-exploration.org/entity/Astronaut_1641> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1641" .
+<http://space-exploration.org/entity/Astronaut_1985> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q193534> .
+<http://space-exploration.org/entity/SpaceMission_Artemis_25> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q60045> .
+<http://space-exploration.org/entity/Astronaut_608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/Skores> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://www.wikidata.org/entity/Q106340166> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q66> .
+<http://www.wikidata.org/entity/Q130887871> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://www.wikidata.org/entity/Q115642> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q97355651> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q4> .
+<http://space-exploration.org/entity/Swanson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/Probe_105> <http://www.w3.org/2000/01/rdf-schema#label> "Probe 105" .
+<http://space-exploration.org/entity/Astronaut_539> <http://www.wikidata.org/prop/direct/P27> "DE" .
+<http://space-exploration.org/entity/Astronaut_2774> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q209213> .
+<http://space-exploration.org/entity/Astronaut_2177> <http://www.wikidata.org/prop/direct/P27> "DE" .
+<http://space-exploration.org/entity/Faber> <http://www.w3.org/2000/01/rdf-schema#label> "Faber" .
+<http://space-exploration.org/entity/F8F_Bearcat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<wd:Q179619> <http://www.wikidata.org/prop/direct/P2067> "145.8754295" .
+<http://www.wikidata.org/entity/Q131082464> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://www.wikidata.org/entity/Q747235> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/National_Aeronautic_Association> <http://www.w3.org/2000/01/rdf-schema#label> "National Aeronautic Association" .
+<http://www.wikidata.org/entity/Q109953976> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q43> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Express_26> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q66526> .
+<http://space-exploration.org/entity/Satellite_215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Astronaut_2064> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 2064" .
+<http://space-exploration.org/entity/Telescope_234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Orbiter_69> <http://space-exploration.org/ontology#orbitAltitude> "545" .
+<http://www.wikidata.org/entity/Q55362414> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q9401> .
+<http://space-exploration.org/entity/E-1_Tracers> <http://www.w3.org/2000/01/rdf-schema#label> "E-1 Tracers" .
+<http://www.wikidata.org/entity/Q605092> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q605394> .
+<http://space-exploration.org/entity/Service_Module> <http://www.w3.org/2000/01/rdf-schema#label> "Service Module" .
+<http://www.wikidata.org/entity/Q131000461> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://space-exploration.org/entity/Astronaut_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/SpaceMission_Parker_Solar_Probe_6> <http://space-exploration.org/ontology#launchDate> "2020" .
+<http://space-exploration.org/entity/Astronaut_2202> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q193701> .
+<http://space-exploration.org/entity/Lander_182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Astronaut_292> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q167751> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Odyssey_47> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_1346> .
+<http://space-exploration.org/entity/Shiflett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://www.wikidata.org/entity/Q117429283> <http://www.wikidata.org/prop/direct/P571> "-1353-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/SpaceMission_Galileo_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://space-exploration.org/entity/Astronaut_116> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q66526> .
+<http://www.wikidata.org/entity/Q113170041> <http://www.wikidata.org/prop/direct/P571> "-1499-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/SpaceMission_Juno_68> <http://www.w3.org/2000/01/rdf-schema#label> "Juno 68" .
+<http://space-exploration.org/entity/Astronaut_2185> <http://www.wikidata.org/prop/direct/P27> "FR" .
+<http://space-exploration.org/entity/Astronaut_2367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/the_Jovian_System> <http://www.w3.org/2000/01/rdf-schema#label> "the Jovian System" .
+<http://www.wikidata.org/entity/Q232692> <http://www.w3.org/2000/01/rdf-schema#label> "Naoko Yamazaki" .
+<http://www.wikidata.org/entity/Q17190> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q709931> .
+<http://space-exploration.org/entity/Zamora> <http://www.w3.org/2000/01/rdf-schema#label> "Zamora" .
+<http://www.wikidata.org/entity/Q4045437> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q1418> .
+<http://www.wikidata.org/entity/Q130305312> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q116> .
+<http://www.wikidata.org/entity/Q957368> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q38> .
+<http://www.wikidata.org/entity/Q270484> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/Orbiter_53> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q66526> .
+<http://www.wikidata.org/entity/Q15810489> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q89> .
+<http://space-exploration.org/entity/Astronaut_419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/ontology#fundedBy> <http://www.w3.org/2000/01/rdf-schema#label> "fundedBy" .
+<http://www.wikidata.org/entity/Q7290> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/SpaceMission_Rosetta_18> <http://www.w3.org/2000/01/rdf-schema#label> "Rosetta 18" .
+<http://space-exploration.org/entity/Ax-2> <http://www.w3.org/2000/01/rdf-schema#label> "Ax-2" .
+<http://space-exploration.org/entity/Nature_Astronomy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://space-exploration.org/entity/Satellite_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q94141> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q83386319> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q83386209> .
+<http://www.wikidata.org/entity/Q130324105> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q6750> .
+<http://space-exploration.org/entity/Telescope_189> <http://www.w3.org/2000/01/rdf-schema#label> "Telescope 189" .
+<http://www.wikidata.org/entity/Q17177> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://space-exploration.org/entity/Astronaut_155> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q209213> .
+<http://www.wikidata.org/entity/Q461872> <http://www.w3.org/2000/01/rdf-schema#label> "Gregory Chamitoff" .
+<http://space-exploration.org/entity/SpaceMission_BepiColombo_61> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q60045> .
+<http://www.wikidata.org/entity/Q183252> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q420> .
+<http://www.wikidata.org/entity/Q203026> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q159> .
+<http://www.wikidata.org/entity/Q47459277> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q43740811> .
+<http://www.wikidata.org/entity/Q18589921> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q6686> .
+<http://space-exploration.org/entity/Linux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q701542> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q362> .
+<http://space-exploration.org/entity/Astronaut_1993> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1993" .
+<http://space-exploration.org/entity/Astronaut_1903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://www.wikidata.org/entity/Q117423799> <http://www.wikidata.org/prop/direct/P571> "-2118-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q14213803> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q97> .
+<http://space-exploration.org/entity/New_Orleans92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Location> .
+<http://www.wikidata.org/entity/Q2336472> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q1418> .
+<http://space-exploration.org/entity/Astronaut_1077> <http://www.wikidata.org/prop/direct/P27> "IT" .
+<http://space-exploration.org/entity/Jan_Wörner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://www.wikidata.org/entity/Q12040315> <http://www.w3.org/2000/01/rdf-schema#label> "Nadezhda Kuzhelnaya" .
+<http://space-exploration.org/entity/Astronaut_2068> <http://www.wikidata.org/prop/direct/P27> "FR" .
+<http://space-exploration.org/entity/Telescope_128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Rover_199> <http://www.w3.org/2000/01/rdf-schema#label> "Rover 199" .
+<http://space-exploration.org/entity/Astronaut_641> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q209213> .
+<http://space-exploration.org/entity/Southwest_Research_Institute> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://www.wikidata.org/entity/Q2908482> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q66> .
+<http://space-exploration.org/entity/Astronaut_479> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 479" .
+<http://space-exploration.org/entity/Astronaut_1902> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1902" .
+<http://space-exploration.org/entity/SpaceMission_Mercury_62> <http://space-exploration.org/ontology#launchDate> "1963" .
+<http://space-exploration.org/entity/SpaceMission_Galileo_97> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_796> .
+<http://space-exploration.org/entity/Astronaut_1096> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q60045> .
+<http://www.wikidata.org/entity/Q12249241> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q1418> .
+<http://space-exploration.org/entity/US-European_Collaboration_in_Space_Science> <http://www.w3.org/2000/01/rdf-schema#label> "U.S.-European Collaboration in Space Science" .
+<http://www.wikidata.org/entity/Q1200703> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q309> .
+<http://space-exploration.org/entity/Astronaut_363> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 363" .
+<http://space-exploration.org/entity/Astronaut_1313> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1313" .
+<http://space-exploration.org/entity/White_Sands> <http://www.w3.org/2000/01/rdf-schema#label> "White Sands" .
+<http://www.wikidata.org/entity/Q3266710> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q350420> .
+<http://www.wikidata.org/entity/Q3163099> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q251> .
+<http://www.wikidata.org/entity/Q5247391> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q4> .
+<http://space-exploration.org/entity/SpaceMission_Pioneer_15> <http://space-exploration.org/ontology#launchDate> "1990" .
+<http://space-exploration.org/entity/SpaceMission_Mars_Express_78> <http://space-exploration.org/ontology#launchDate> "2015" .
+<http://space-exploration.org/entity/Astronaut_796> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 796" .
+<http://space-exploration.org/entity/SpaceMission_Chandra_44> <http://space-exploration.org/ontology#launchDate> "1972" .
+<http://www.wikidata.org/entity/Q16522811> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://www.wikidata.org/entity/Q643860> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q41606> .
+<http://space-exploration.org/entity/Astronaut_1550> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://www.wikidata.org/entity/Q131304286> <http://www.w3.org/2000/01/rdf-schema#label> "Ryland Grace" .
+<http://www.wikidata.org/entity/Q3932877> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q6686> .
+<http://space-exploration.org/entity/Probe_32> <http://space-exploration.org/ontology#orbitAltitude> "360" .
+<http://www.wikidata.org/entity/Q18414990> <http://www.wikidata.org/prop/direct/P571> "-3500-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/Astronaut_1743> <http://www.wikidata.org/prop/direct/P27> "IT" .
+<http://space-exploration.org/entity/Chou> <http://www.w3.org/2000/01/rdf-schema#label> "Chou" .
+<http://space-exploration.org/entity/Astronaut_1079> <http://www.wikidata.org/prop/direct/P27> "DE" .
+<http://space-exploration.org/entity/United_Kingdomnote> <http://www.w3.org/2000/01/rdf-schema#label> "United Kingdom[note" .
+<http://www.wikidata.org/entity/Q16516605> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q362> .
+<http://space-exploration.org/entity/SpaceMission_Cassini_90> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_689> .
+<http://space-exploration.org/entity/Astronaut_2068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/Astronaut_1540> <http://www.wikidata.org/prop/direct/P27> "RU" .
+<http://space-exploration.org/entity/SpaceMission_Mars_Odyssey_50> <http://space-exploration.org/ontology#launchDate> "1984" .
+<http://space-exploration.org/entity/the_Lunar_Dielectric_Analyzer> <http://www.w3.org/2000/01/rdf-schema#label> "the Lunar Dielectric Analyzer" .
+<http://space-exploration.org/entity/Alexei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/Astronaut_1846> <http://www.wikidata.org/prop/direct/P27> "RU" .
+<http://www.wikidata.org/entity/Q465503> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q543887> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q7233> .
+<http://space-exploration.org/entity/Daniel_P> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/SpaceMission_Cassini_90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://space-exploration.org/entity/Astronaut_1478> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q209213> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Express_89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://space-exploration.org/entity/Telescope_29> <http://space-exploration.org/ontology#orbitAltitude> "345" .
+<http://www.wikidata.org/entity/Q134774810> <http://www.wikidata.org/prop/direct/P571> "-2305-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q22675203> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q89> .
+<http://space-exploration.org/entity/Janet_Shearon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/Probe_227> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q209213> .
+<http://space-exploration.org/entity/Astronaut_2863> <http://www.wikidata.org/prop/direct/P27> "RU" .
+<http://space-exploration.org/entity/Blair_Allen> <http://www.w3.org/2000/01/rdf-schema#label> "Blair Allen" .
+<wd:Q18> <http://www.wikidata.org/prop/direct/P13061> "13434595" .
+<http://www.wikidata.org/entity/Q66584144> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q349> .
+<http://space-exploration.org/entity/SpaceMission_Pioneer_65> <http://www.w3.org/2000/01/rdf-schema#label> "Pioneer 65" .
+<http://space-exploration.org/entity/Artemis_IV> <http://www.w3.org/2000/01/rdf-schema#label> "Artemis IV" .
+<http://www.wikidata.org/entity/Q118727349> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q177> .
+<http://www.wikidata.org/entity/Q26882860> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q89> .
+<http://space-exploration.org/entity/SpaceMission_Apollo_73> <http://space-exploration.org/ontology#launchDate> "1968" .
+<http://space-exploration.org/entity/Astronaut_2503> <http://www.wikidata.org/prop/direct/P27> "RU" .
+<http://www.wikidata.org/entity/Q14997> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Astronaut_776> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q209213> .
+<http://space-exploration.org/entity/Lockheed_Martin90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://www.wikidata.org/entity/Q130898274> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://www.wikidata.org/entity/Q131002518> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1421> .
+<http://www.wikidata.org/entity/Q107297632> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q28031241> .
+<http://www.wikidata.org/entity/Q126176967> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q66> .
+<http://space-exploration.org/entity/The_Weather_Network> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://www.wikidata.org/entity/Q750101> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q352137> .
+<http://www.wikidata.org/entity/Q64211842> <http://www.wikidata.org/prop/direct/P571> "-2300-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/SpaceMission_Rosetta_54> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q23548> .
+<http://www.wikidata.org/entity/Q19050> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q49284> .
+<http://space-exploration.org/entity/Orbiter_228> <http://www.w3.org/2000/01/rdf-schema#label> "Orbiter 228" .
+<http://space-exploration.org/entity/Astronaut_590> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q193534> .
+<http://space-exploration.org/entity/SLS_Block_1B161> <http://www.w3.org/2000/01/rdf-schema#label> "SLS Block 1B,[161" .
+<http://www.wikidata.org/entity/Q22303> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Pathfinder_63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://www.wikidata.org/entity/Q7034625> <http://www.w3.org/2000/01/rdf-schema#label> "Nik Halik" .
+<http://www.wikidata.org/entity/Q568357> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q315737> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q2357348> .
+<http://space-exploration.org/entity/Boyd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/Fiser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<wd:Q23548> <http://www.wikidata.org/prop/direct/P355> <http://www.wikidata.org/entity/Q6023410> .
+<http://www.wikidata.org/entity/Q85861593> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://space-exploration.org/entity/the_Tin_Goose1213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Pathfinder_92> <http://space-exploration.org/ontology#launchDate> "2023" .
+<http://space-exploration.org/entity/Astronaut_1124> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1124" .
+<http://space-exploration.org/entity/Astronaut_2301> <http://www.wikidata.org/prop/direct/P27> "IT" .
+<http://space-exploration.org/entity/Cape_Canaverals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Location> .
+<http://www.wikidata.org/entity/Q641498> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q420> .
+<http://space-exploration.org/entity/SpaceMission_Pioneer_100> <http://space-exploration.org/ontology#launchDate> "2010" .
+<http://space-exploration.org/entity/SpaceMission_Artemis_95> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_394> .
+<http://www.wikidata.org/entity/Q240478> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q724181> .
+<http://www.wikidata.org/entity/Q1604672> <http://www.wikidata.org/prop/direct/P571> "-1999-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q116962> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://space-exploration.org/entity/SpaceMission_TESS_18> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q23548> .
+<http://space-exploration.org/entity/Astronaut_1562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://www.wikidata.org/entity/Q117157119> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q116> .
+<http://space-exploration.org/entity/SpaceMission_Mercury_14> <http://www.w3.org/2000/01/rdf-schema#label> "Mercury 14" .
+<http://space-exploration.org/entity/SpaceMission_Voyager_55> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Astronaut_627> <http://www.wikidata.org/prop/direct/P27> "IT" .
+<http://space-exploration.org/entity/SpaceMission_Hubble_55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://space-exploration.org/entity/Jacobs> <http://www.w3.org/2000/01/rdf-schema#label> "Jacobs" .
+<http://space-exploration.org/entity/Ariane_Next> <http://www.w3.org/2000/01/rdf-schema#label> "Ariane Next" .
+<http://space-exploration.org/entity/Astronaut_1417> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1417" .
+<http://www.wikidata.org/entity/Q121088965> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q4> .
+<http://space-exploration.org/entity/Lander_177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q15020> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://www.wikidata.org/entity/Q4223> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/SpaceMission_Pioneer_70> <http://space-exploration.org/ontology#launchDate> "1980" .
+<http://space-exploration.org/entity/Probe_169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q3925> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Astronaut_2956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://www.wikidata.org/entity/Q11336988> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q144> .
+<http://www.wikidata.org/entity/Q9658> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q845390> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q360433> .
+<http://www.wikidata.org/entity/Q725233> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://space-exploration.org/entity/SpaceMission_Rosetta_100> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Pathfinder_15> <http://space-exploration.org/ontology#launchDate> "2011" .
+<http://www.wikidata.org/entity/Q104865> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q15180> .
+<http://space-exploration.org/entity/SpaceMission_Voyager_65> <http://space-exploration.org/ontology#launchDate> "1972" .
+<http://space-exploration.org/entity/Orbiter_130> <http://www.w3.org/2000/01/rdf-schema#label> "Orbiter 130" .
+<http://space-exploration.org/entity/Mather> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://www.wikidata.org/entity/Q915385> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q314921> .
+<http://space-exploration.org/entity/SpaceX_science_Dragon_delivers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Commercial_Crew_Program> <http://www.w3.org/2000/01/rdf-schema#label> "Commercial Crew Program" .
+<http://www.wikidata.org/entity/Q117233383> <http://www.wikidata.org/prop/direct/P571> "-3900-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/the_Gulf_of_Aden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Location> .
+<http://space-exploration.org/entity/Astronaut_918> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 918" .
+<http://www.wikidata.org/entity/Q19896779> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q362> .
+<http://space-exploration.org/entity/Joseph> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph" .
+<http://www.wikidata.org/entity/Q11739279> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q361> .
+<http://www.wikidata.org/entity/Q28943742> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q95> .
+<http://www.wikidata.org/entity/Q130885133> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://www.wikidata.org/entity/Q15915170> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q317> .
+<http://www.wikidata.org/entity/Q87335836> <http://www.wikidata.org/prop/direct/P571> "-2000-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/Orbital_Sciences> <http://www.w3.org/2000/01/rdf-schema#label> "Orbital Sciences" .
+<http://space-exploration.org/entity/Astronaut_1758> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1758" .
+<http://space-exploration.org/entity/Satellite_175> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q167751> .
+<http://www.wikidata.org/entity/Q125156660> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q4> .
+<http://space-exploration.org/entity/Treu> <http://www.w3.org/2000/01/rdf-schema#label> "Treu" .
+<http://space-exploration.org/entity/Probe_56> <http://www.w3.org/2000/01/rdf-schema#label> "Probe 56" .
+<http://space-exploration.org/entity/SpaceMission_Galileo_96> <http://www.w3.org/2000/01/rdf-schema#label> "Galileo 96" .
+<http://space-exploration.org/entity/Telescope_199> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/SpaceMission_Mercury_75> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q875744> .
+<http://www.wikidata.org/entity/Q107297632> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q28031233> .
+<http://www.wikidata.org/entity/Q211661> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q34> .
+<http://space-exploration.org/entity/SpaceMission_Mercury_3> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_202> .
+<http://space-exploration.org/entity/F9F_Panther> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Fujimoto> <http://www.w3.org/2000/01/rdf-schema#label> "Fujimoto" .
+<http://space-exploration.org/entity/Fred_Haise> <http://www.w3.org/2000/01/rdf-schema#label> "Fred Haise" .
+<http://space-exploration.org/entity/SP_Korolev_Rocket_and_Space_Corporation> <http://www.w3.org/2000/01/rdf-schema#label> "S.P. Korolev Rocket and Space Corporation" .
+<http://space-exploration.org/entity/Astronaut_1345> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q167751> .
+<http://space-exploration.org/entity/SpaceMission_Chandra_58> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q167751> .
+<http://www.wikidata.org/entity/Q3395974> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q89> .
+<http://space-exploration.org/entity/Rover_220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/SpaceMission_Cassini_3> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q875744> .
+<http://www.wikidata.org/entity/Q12370674> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q358> .
+<http://www.wikidata.org/entity/Q30202712> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://space-exploration.org/entity/Chillag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/SpaceMission_TESS_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://www.wikidata.org/entity/Q181969> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q98> .
+<http://www.wikidata.org/entity/Q634822> <http://www.w3.org/2000/01/rdf-schema#label> "James van Hoften" .
+<http://space-exploration.org/entity/Astronaut_2567> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q209213> .
+<http://space-exploration.org/entity/Hampton> <http://www.w3.org/2000/01/rdf-schema#label> "Hampton" .
+<http://space-exploration.org/entity/the_Soviet_Unions> <http://www.w3.org/2000/01/rdf-schema#label> "the Soviet Union's" .
+<http://www.wikidata.org/entity/Q29075885> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q66> .
+<http://space-exploration.org/entity/Space_Safety_Programme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://space-exploration.org/entity/Prometheus> <http://www.w3.org/2000/01/rdf-schema#label> "Prometheus" .
+<http://space-exploration.org/entity/Mars_Express_ESA> <http://www.w3.org/2000/01/rdf-schema#label> "Mars Express (ESA)" .
+<http://space-exploration.org/entity/SpaceMission_Pioneer_4> <http://space-exploration.org/ontology#launchDate> "1979" .
+<http://space-exploration.org/entity/SpaceMission_Mars_Odyssey_95> <http://www.w3.org/2000/01/rdf-schema#label> "Mars Odyssey 95" .
+<http://space-exploration.org/entity/SpaceMission_Chandra_98> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_1197> .
+<http://space-exploration.org/entity/SpaceMission_Voyager_46> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/SpaceMission_TESS_65> <http://www.w3.org/2000/01/rdf-schema#label> "TESS 65" .
+<http://space-exploration.org/entity/Rover_122> <http://space-exploration.org/ontology#orbitAltitude> "810" .
+<http://space-exploration.org/entity/Lander_20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Weitering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://www.wikidata.org/entity/Q130928561> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1414> .
+<http://www.wikidata.org/entity/Q15617299> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q66> .
+<http://www.wikidata.org/entity/Q7267348> <http://www.wikidata.org/prop/direct/P571> "-6999-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q617651> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q1615> .
+<http://space-exploration.org/entity/Astronaut_1752> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q193701> .
+<http://space-exploration.org/entity/the_S-IC> <http://www.w3.org/2000/01/rdf-schema#label> "the S-IC" .
+<http://www.wikidata.org/entity/Q264460> <http://www.w3.org/2000/01/rdf-schema#label> "Ellen S. Baker" .
+<http://space-exploration.org/entity/Lafrenière> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/Rover_135> <http://www.w3.org/2000/01/rdf-schema#label> "Rover 135" .
+<http://space-exploration.org/entity/Astronaut_82> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 82" .
+<http://space-exploration.org/entity/SpaceMission_Mars_Express_23> <http://space-exploration.org/ontology#launchDate> "1960" .
+<http://space-exploration.org/entity/Goddard_Space_Flight> <http://www.w3.org/2000/01/rdf-schema#label> "Goddard Space Flight" .
+<http://www.wikidata.org/entity/Q4960> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://www.wikidata.org/entity/Q17230> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q975217> .
+<http://space-exploration.org/entity/Lander_207> <http://www.w3.org/2000/01/rdf-schema#label> "Lander 207" .
+<http://space-exploration.org/entity/Space_Shuttle_Challenger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Satellite_132> <http://www.w3.org/2000/01/rdf-schema#label> "Satellite 132" .
+<http://www.wikidata.org/entity/Q845684> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q794335> .
+<http://www.wikidata.org/entity/Q538639> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q15180> .
+<http://www.wikidata.org/entity/Q4029> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://www.wikidata.org/entity/Q281271> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q11764913> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q7233> .
+<http://space-exploration.org/entity/Kulu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/US-led> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Location> .
+<http://www.wikidata.org/entity/Q687394> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q86041> .
+<http://space-exploration.org/entity/SpaceMission_Voyager_43> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_442> .
+<http://space-exploration.org/entity/Astronaut_2328> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 2328" .
+<http://www.wikidata.org/entity/Q11379> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q1> .
+<http://space-exploration.org/entity/Orbiter_57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Lander_239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q895779> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q183> .
+<http://space-exploration.org/entity/Orbiter_87> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q193701> .
+<http://www.wikidata.org/entity/Q11307060> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q144> .
+<http://www.wikidata.org/entity/Q17225> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q375659> .
+<http://space-exploration.org/entity/SpaceMission_Hubble_47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<wd:Q48979> <http://www.wikidata.org/prop/direct/P3365> "richard-laurence-millington-synge" .
+<http://www.wikidata.org/entity/Q8284> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Location> .
+<http://space-exploration.org/entity/Astronaut_1872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/Astronaut_845> <http://www.wikidata.org/prop/direct/P27> "DE" .
+<http://www.wikidata.org/entity/Q130916023> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://www.wikidata.org/entity/Q60050774> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q30> .
+<http://www.wikidata.org/entity/Q728314> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q6742> .
+<http://space-exploration.org/entity/Progress_M-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q4631> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/SpaceMission_Chandra_97> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_1196> .
+<http://space-exploration.org/entity/Kolodny> <http://www.w3.org/2000/01/rdf-schema#label> "Kolodny" .
+<http://www.wikidata.org/entity/Q1236518> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q1250265> .
+<http://www.wikidata.org/entity/Q7518> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://www.wikidata.org/entity/Q215140> <http://www.w3.org/2000/01/rdf-schema#label> "Reinhold Ewald" .
+<http://www.wikidata.org/entity/Q18412563> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q235523> .
+<http://space-exploration.org/entity/SpaceMission_TESS_75> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q875744> .
+<http://space-exploration.org/entity/Probe_149> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q193534> .
+<http://www.wikidata.org/entity/Q295873> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q30> .
+<http://space-exploration.org/entity/Orbiter_238> <http://space-exploration.org/ontology#orbitAltitude> "1390" .
+<http://space-exploration.org/entity/SpaceMission_Artemis_51> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_350> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Express_35> <http://space-exploration.org/ontology#launchDate> "1972" .
+<http://www.wikidata.org/entity/Q184274> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q333> .
+<http://space-exploration.org/entity/SpaceMission_BepiColombo_34> <http://www.w3.org/2000/01/rdf-schema#label> "BepiColombo 34" .
+<http://space-exploration.org/entity/Astronaut_1302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/Brian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://www.wikidata.org/entity/Q130923671> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://space-exploration.org/entity/LEDSAT> <http://www.w3.org/2000/01/rdf-schema#label> "LEDSAT" .
+<http://space-exploration.org/entity/Cleveland> <http://www.w3.org/2000/01/rdf-schema#label> "Cleveland" .
+<http://www.wikidata.org/entity/Q49374308> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q98> .
+<http://space-exploration.org/entity/Astronaut_1690> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1690" .
+<http://space-exploration.org/entity/SpaceMission_Mercury_72> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q23548> .
+<http://space-exploration.org/entity/Hawking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/the_Soft_Capture_Mechanism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Astronaut_463> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q167751> .
+<http://space-exploration.org/entity/Astronaut_1911> <http://www.wikidata.org/prop/direct/P27> "CN" .
+<http://space-exploration.org/entity/Astronaut_1592> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q66526> .
+<http://www.wikidata.org/entity/Q49379696> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q98> .
+<http://space-exploration.org/entity/French_Guiana185186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Location> .
+<http://space-exploration.org/entity/Astronaut_1827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/Human_Spaceflight_Research> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://www.wikidata.org/entity/Q13889299> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://www.wikidata.org/entity/Q5954188> <http://www.w3.org/2000/01/rdf-schema#label> "Judy Robinson" .
+<http://www.wikidata.org/entity/Q1240263> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q30> .
+<http://www.wikidata.org/entity/Q84473000> <http://www.wikidata.org/prop/direct/P571> "-2000-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q989> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/SpaceMission_Pioneer_49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<wd:Q1615> <http://www.wikidata.org/prop/direct/P269> "026690713" .
+<http://space-exploration.org/entity/Astronaut_1989> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q23548> .
+<http://www.wikidata.org/entity/Q60974> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/Astronaut_927> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 927" .
+<http://space-exploration.org/entity/Astronaut_1331> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q66526> .
+<http://www.wikidata.org/entity/Q134054153> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q144> .
+<http://www.wikidata.org/entity/Q1338895> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://space-exploration.org/entity/SpaceMission_Parker_Solar_Probe_59> <http://space-exploration.org/ontology#launchDate> "2008" .
+<http://www.wikidata.org/entity/Q2119260> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q197> .
+<http://space-exploration.org/entity/NASA_Goddard_Space_Flight_Center97> <http://www.w3.org/2000/01/rdf-schema#label> "NASA Goddard Space Flight Center.[97" .
+<http://space-exploration.org/entity/Telescope_202> <http://www.w3.org/2000/01/rdf-schema#label> "Telescope 202" .
+<http://www.wikidata.org/entity/Q133847500> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q6686> .
+<http://space-exploration.org/entity/SpaceMission_Rosetta_3> <http://space-exploration.org/ontology#launchDate> "2011" .
+<http://space-exploration.org/entity/Astronaut_1730> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q209213> .
+<http://space-exploration.org/entity/Pablo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://www.wikidata.org/entity/Q61996929> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q9401> .
+<http://space-exploration.org/entity/Astronaut_764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://www.wikidata.org/entity/Q2168272> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q89> .
+<http://space-exploration.org/entity/McCrea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/the_Docking_and_Stowage_Module> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<wd:Q1615> <http://www.wikidata.org/prop/direct/P10780> "neil-armstrong" .
+<http://www.wikidata.org/entity/Q316435> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q130946432> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1421> .
+<http://www.wikidata.org/entity/Q13242> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://www.wikidata.org/entity/Q2312440> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q197> .
+<http://space-exploration.org/entity/Astronaut_2641> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q167751> .
+<http://space-exploration.org/entity/Orbiter_109> <http://www.w3.org/2000/01/rdf-schema#label> "Orbiter 109" .
+<http://space-exploration.org/entity/OKeefe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/The_Conversation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://space-exploration.org/entity/William> <http://www.w3.org/2000/01/rdf-schema#label> "William" .
+<http://space-exploration.org/entity/SpaceMission_Mercury_16> <http://www.w3.org/2000/01/rdf-schema#label> "Mercury 16" .
+<http://space-exploration.org/entity/SpaceMission_TESS_29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://space-exploration.org/entity/Lyndon_B_Johnson> <http://www.w3.org/2000/01/rdf-schema#label> "Lyndon B. Johnson" .
+<http://www.wikidata.org/entity/Q50065636> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q311> .
+<http://www.wikidata.org/entity/Q1150400> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q48> .
+<http://www.wikidata.org/entity/Q600770> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q49285> .
+<http://space-exploration.org/entity/SpaceMission_Parker_Solar_Probe_16> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_1815> .
+<http://www.wikidata.org/entity/Q130896673> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://space-exploration.org/entity/ExecutiveGov> <http://www.w3.org/2000/01/rdf-schema#label> "ExecutiveGov" .
+<http://space-exploration.org/entity/SpaceMission_Parker_Solar_Probe_71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://www.wikidata.org/entity/Q126709> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<wd:Q18> <http://www.wikidata.org/prop/direct/P7284> "south-america" .
+<http://www.wikidata.org/entity/Q151808> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q1376966> .
+<http://www.wikidata.org/entity/Q1386346> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q89> .
+<http://www.wikidata.org/entity/Q99954186> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q106497661> .
+<http://www.wikidata.org/entity/Q34770> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q315> .
+<http://space-exploration.org/entity/CBS_Radio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://space-exploration.org/entity/Rover_110> <http://www.w3.org/2000/01/rdf-schema#label> "Rover 110" .
+<http://www.wikidata.org/entity/Q10386073> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q78352> .
+<http://space-exploration.org/entity/Mikkel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://www.wikidata.org/entity/Q4445694> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q317> .
+<http://space-exploration.org/entity/Astronaut_1484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<wd:Q18> <http://www.wikidata.org/prop/direct/P6181> "south-america" .
+<http://www.wikidata.org/entity/Q2299200> <http://www.wikidata.org/prop/direct/P571> "-8770-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q143103> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://www.wikidata.org/entity/Q51183258> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q178> .
+<http://space-exploration.org/entity/SpaceMission_Cassini_18> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_617> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Pathfinder_3> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_1202> .
+<http://space-exploration.org/entity/Astronaut_1075> <http://www.wikidata.org/prop/direct/P27> "JP" .
+<http://www.wikidata.org/entity/Q535157> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://space-exploration.org/entity/Astronaut_1105> <http://www.wikidata.org/prop/direct/P27> "FR" .
+<http://space-exploration.org/entity/Astronaut_1177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://www.wikidata.org/entity/Q109954037> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q11220> .
+<http://www.wikidata.org/entity/Q130934036> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://space-exploration.org/entity/Project_Gemini39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://space-exploration.org/entity/Bonnell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://www.wikidata.org/entity/Q66908257> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q67> .
+<http://space-exploration.org/entity/Astronaut_2547> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 2547" .
+<http://space-exploration.org/entity/SpaceMission_Apollo_35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://space-exploration.org/entity/the_MMOP_Acoustics_Subgroup> <http://www.w3.org/2000/01/rdf-schema#label> "the MMOP Acoustics Subgroup" .
+<http://www.wikidata.org/entity/Q22978275> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q70928> .
+<http://www.wikidata.org/entity/Q37877> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q703550> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q362> .
+<http://www.wikidata.org/entity/Q8459> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Satellite_172> <http://www.w3.org/2000/01/rdf-schema#label> "Satellite 172" .
+<http://space-exploration.org/entity/Astronaut_2347> <http://www.wikidata.org/prop/direct/P27> "FR" .
+<http://space-exploration.org/entity/Aviation_Week_Space_Technology> <http://www.w3.org/2000/01/rdf-schema#label> "Aviation Week & Space Technology" .
+<http://space-exploration.org/entity/SpaceMission_Hubble_67> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q167751> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Odyssey_94> <http://space-exploration.org/ontology#launchDate> "1963" .
+<http://space-exploration.org/entity/SpaceMission_TESS_30> <http://www.w3.org/2000/01/rdf-schema#label> "TESS 30" .
+<http://www.wikidata.org/entity/Q15519286> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q1191843> .
+<http://space-exploration.org/entity/Christopher_S> <http://www.w3.org/2000/01/rdf-schema#label> "Christopher S." .
+<http://www.wikidata.org/entity/Q134960246> <http://www.wikidata.org/prop/direct/P571> "-9000-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/SpaceMission_New_Horizons_99> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q23548> .
+<http://space-exploration.org/entity/Satellite_156> <http://space-exploration.org/ontology#orbitAltitude> "980" .
+<http://www.wikidata.org/entity/Q56289984> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q228> .
+<http://www.wikidata.org/entity/Q658305> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q519124> .
+<http://www.wikidata.org/entity/Q37706> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Pathfinder_30> <http://space-exploration.org/ontology#launchDate> "1961" .
+<http://space-exploration.org/entity/Astronaut_1833> <http://www.wikidata.org/prop/direct/P27> "IT" .
+<http://space-exploration.org/entity/Astronaut_1923> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1923" .
+<http://space-exploration.org/entity/EarthCARE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q117250> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q362> .
+<http://space-exploration.org/entity/Guyomard> <http://www.w3.org/2000/01/rdf-schema#label> "Guyomard" .
+<http://space-exploration.org/entity/SpaceMission_Chandra_66> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q875744> .
+<http://space-exploration.org/entity/Hartig> <http://www.w3.org/2000/01/rdf-schema#label> "Hartig" .
+<http://www.wikidata.org/entity/Q58494329> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q171> .
+<http://space-exploration.org/entity/Levy> <http://www.w3.org/2000/01/rdf-schema#label> "Levy" .
+<http://space-exploration.org/entity/Astronaut_507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Pathfinder_8> <http://space-exploration.org/ontology#launchDate> "2004" .
+<http://space-exploration.org/entity/Astronaut_910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/Rover_118> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q5> .
+<http://www.wikidata.org/entity/Q130987301> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://space-exploration.org/entity/the_US_Air_Force> <http://www.w3.org/2000/01/rdf-schema#label> "the U.S. Air Force" .
+<http://space-exploration.org/entity/Astronaut_819> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q23548> .
+<http://space-exploration.org/entity/Astronaut_127> <http://www.wikidata.org/prop/direct/P27> "RU" .
+<http://www.wikidata.org/entity/Q85299689> <http://www.wikidata.org/prop/direct/P571> "-2000-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/Astronaut_24> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 24" .
+<http://space-exploration.org/entity/Mars_Reconnaissance_Orbiter> <http://www.w3.org/2000/01/rdf-schema#label> "Mars Reconnaissance Orbiter" .
+<http://www.wikidata.org/entity/Q4673109> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q68> .
+<http://space-exploration.org/entity/SpaceMission_TESS_41> <http://www.w3.org/2000/01/rdf-schema#label> "TESS 41" .
+<http://space-exploration.org/entity/Astronaut_1660> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1660" .
+<http://www.wikidata.org/entity/Q131071595> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1413> .
+<http://space-exploration.org/entity/the_National_Oceanic_and_Atmospheric_Administration> <http://www.w3.org/2000/01/rdf-schema#label> "the National Oceanic and Atmospheric Administration" .
+<http://space-exploration.org/entity/SpaceMission_Hubble_28> <http://space-exploration.org/ontology#launchDate> "2018" .
+<http://space-exploration.org/entity/SpaceMission_Mars_Express_20> <http://www.w3.org/2000/01/rdf-schema#label> "Mars Express 20" .
+<http://www.wikidata.org/entity/Q117423832> <http://www.wikidata.org/prop/direct/P571> "-2118-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q471513> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q23548> .
+<http://space-exploration.org/entity/Victor_J_Glover> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/David_K> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/Astronaut_2245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/SpaceMission_New_Horizons_51> <http://www.w3.org/2000/01/rdf-schema#label> "New Horizons 51" .
+<http://www.wikidata.org/entity/Q109909286> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q6686> .
+<http://space-exploration.org/entity/SpaceMission_New_Horizons_84> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_983> .
+<http://space-exploration.org/entity/Rover_115> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q60045> .
+<http://www.wikidata.org/entity/Q132959> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q15> .
+<http://www.wikidata.org/entity/Q33026699> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q1> .
+<http://space-exploration.org/entity/Giancarlo> <http://www.w3.org/2000/01/rdf-schema#label> "Giancarlo" .
+<http://space-exploration.org/entity/Telescope_93> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q875744> .
+<http://www.wikidata.org/entity/Q556047> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q94816200> .
+<http://www.wikidata.org/entity/Q1885789> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q89> .
+<http://www.wikidata.org/entity/Q974431> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://www.wikidata.org/entity/Q117423407> <http://www.wikidata.org/prop/direct/P571> "-3900-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q506349> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q23548> .
+<http://space-exploration.org/entity/Astronaut_2211> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q193701> .
+<http://www.wikidata.org/entity/Q3772> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Astronaut_1540> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q5> .
+<http://www.wikidata.org/entity/Q130918120> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1419> .
+<http://space-exploration.org/entity/Astronaut_1102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/SpaceMission_Venus_Express_15> <http://www.w3.org/2000/01/rdf-schema#label> "Venus Express 15" .
+<wd:Q23548> <http://www.wikidata.org/prop/direct/P3797> "1701" .
+<http://www.wikidata.org/entity/Q1421648> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q6742> .
+<http://www.wikidata.org/entity/Q14991> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Astronaut_1431> <http://www.wikidata.org/prop/direct/P27> "US" .
+<http://space-exploration.org/entity/Cueva_de_los_Tayos> <http://www.w3.org/2000/01/rdf-schema#label> "Cueva de los Tayos" .
+<http://space-exploration.org/entity/Kenny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<wd:Q60743> <http://www.wikidata.org/prop/direct/P227> "119418134" .
+<http://www.wikidata.org/entity/Q316188> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/SpaceMission_TESS_29> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_1928> .
+<http://www.wikidata.org/entity/Q905133> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q995007> .
+<http://space-exploration.org/entity/Astronaut_1249> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1249" .
+<http://www.wikidata.org/entity/Q134596350> <http://www.wikidata.org/prop/direct/P571> "-1539-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/Astronaut_1744> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q60045> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Odyssey_96> <http://space-exploration.org/ontology#launchDate> "1965" .
+<http://www.wikidata.org/entity/Q133857856> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q6686> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Odyssey_59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://space-exploration.org/entity/Rover_225> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q23548> .
+<http://space-exploration.org/entity/Astronaut_2793> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q875744> .
+<http://space-exploration.org/entity/Astronaut_2863> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q5> .
+<http://www.wikidata.org/entity/Q130890650> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://www.wikidata.org/entity/Q9132> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/J_Davy> <http://www.w3.org/2000/01/rdf-schema#label> "J. Davy" .
+<http://www.wikidata.org/entity/Q270020> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q24083> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://space-exploration.org/entity/SpaceMission_Mercury_97> <http://www.w3.org/2000/01/rdf-schema#label> "Mercury 97" .
+<http://space-exploration.org/entity/SpaceMission_TESS_66> <http://space-exploration.org/ontology#launchDate> "2018" .
+<http://www.wikidata.org/entity/Q968994> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q1506607> .
+<http://space-exploration.org/entity/Orbiter_130> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q167751> .
+<http://space-exploration.org/entity/Astronaut_2503> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q5> .
+<http://www.wikidata.org/entity/Q130982922> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1419> .
+<http://www.wikidata.org/entity/Q126888260> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q66> .
+<http://space-exploration.org/entity/the_Deorbit_Vehicle198> <http://www.w3.org/2000/01/rdf-schema#label> "the Deorbit Vehicle.[198" .
+<http://space-exploration.org/entity/Venera_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q128988753> <http://www.w3.org/2000/01/rdf-schema#label> "Jannicke Mikkelsen" .
+<http://www.wikidata.org/entity/Q115388535> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q42262> .
+<http://space-exploration.org/entity/SpaceMission_BepiColombo_27> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_1726> .
+<http://space-exploration.org/entity/SpaceMission_Voyager_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://www.wikidata.org/entity/Q12905> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Astronaut_143> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q66526> .
+<http://space-exploration.org/entity/Astronaut_1013> <http://www.wikidata.org/prop/direct/P27> "CA" .
+<http://space-exploration.org/entity/Hasselblad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://space-exploration.org/entity/SpaceMission_Galileo_16> <http://space-exploration.org/ontology#launchDate> "1997" .
+<http://space-exploration.org/entity/Durrani> <http://www.w3.org/2000/01/rdf-schema#label> "Durrani" .
+<http://space-exploration.org/entity/F_L> <http://www.w3.org/2000/01/rdf-schema#label> "F. L." .
+<http://www.wikidata.org/entity/Q73557> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/Astronaut_119> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q209213> .
+<http://space-exploration.org/entity/Strickland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/Fergus> <http://www.w3.org/2000/01/rdf-schema#label> "Fergus" .
+<http://space-exploration.org/entity/Rover_89> <http://www.w3.org/2000/01/rdf-schema#label> "Rover 89" .
+<http://space-exploration.org/entity/Adriano> <http://www.w3.org/2000/01/rdf-schema#label> "Adriano" .
+<http://space-exploration.org/entity/Astronaut_461> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q209213> .
+<http://space-exploration.org/entity/Lander_84> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q875744> .
+<http://space-exploration.org/entity/Einstein> <http://www.w3.org/2000/01/rdf-schema#label> "Einstein" .
+<http://space-exploration.org/entity/SpaceMission_Mars_Express_40> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q167751> .
+<http://www.wikidata.org/entity/Q281304> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/SpaceMission_Galileo_48> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_747> .
+<http://space-exploration.org/entity/SpaceMission_Rosetta_52> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q60045> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Express_52> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_1451> .
+<http://space-exploration.org/entity/OShea> <http://www.w3.org/2000/01/rdf-schema#label> "O'Shea" .
+<http://space-exploration.org/entity/RSC_Energia> <http://www.w3.org/2000/01/rdf-schema#label> "RSC Energia" .
+<http://space-exploration.org/entity/Probe_111> <http://www.w3.org/2000/01/rdf-schema#label> "Probe 111" .
+<http://www.wikidata.org/entity/Q998434> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q309> .
+<http://www.wikidata.org/entity/Q49264> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q23548> .
+<http://www.wikidata.org/entity/Q1630402> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q6742> .
+<http://www.wikidata.org/entity/Q117455908> <http://www.wikidata.org/prop/direct/P571> "-3900-01-01T00:00:00Z" .
+<wd:Q167751> <http://www.wikidata.org/prop/direct/P672> "G02.607.125" .
+<http://space-exploration.org/entity/Díaz_Rodríguez_M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://www.wikidata.org/entity/Q5492> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q152298> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://www.wikidata.org/entity/Q675966> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q362> .
+<http://www.wikidata.org/entity/Q2804891> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q246> .
+<http://www.wikidata.org/entity/Q23657248> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q592219> .
+<http://www.wikidata.org/entity/Q7327> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q730282> .
+<http://space-exploration.org/entity/Satellite_182> <http://www.w3.org/2000/01/rdf-schema#label> "Satellite 182" .
+<http://space-exploration.org/entity/Astronaut_2792> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q209213> .
+<http://space-exploration.org/entity/John_D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<wd:Q18> <http://www.wikidata.org/prop/direct/P421> <http://www.wikidata.org/entity/Q5390> .
+<http://www.wikidata.org/entity/Q28057> <http://www.wikidata.org/prop/direct/P571> "-2336-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/Douglas> <http://www.w3.org/2000/01/rdf-schema#label> "Douglas" .
+<http://space-exploration.org/entity/Milton_L_Windler> <http://www.w3.org/2000/01/rdf-schema#label> "Milton L. Windler" .
+<http://www.wikidata.org/entity/Q230829> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q428> .
+<http://space-exploration.org/entity/Lunar_Gateway_Habitat_Module> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q5247438> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q4> .
+<http://space-exploration.org/entity/Astronaut_2948> <http://www.wikidata.org/prop/direct/P27> "CA" .
+<http://space-exploration.org/entity/SpaceMission_Juno_82> <http://space-exploration.org/ontology#launchDate> "2001" .
+<http://space-exploration.org/entity/Orbiter_50> <http://space-exploration.org/ontology#orbitAltitude> "450" .
+<http://www.wikidata.org/entity/Q265789> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/SpaceMission_Pioneer_40> <http://space-exploration.org/ontology#launchDate> "2015" .
+<http://www.wikidata.org/entity/Q230436> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q428> .
+<http://space-exploration.org/entity/Astronaut_273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://www.wikidata.org/entity/Q560360> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q159> .
+<http://space-exploration.org/entity/SpaceMission_Parker_Solar_Probe_13> <http://space-exploration.org/ontology#launchDate> "1962" .
+<http://space-exploration.org/entity/SpaceMission_Parker_Solar_Probe_78> <http://www.w3.org/2000/01/rdf-schema#label> "Parker Solar Probe 78" .
+<http://space-exploration.org/entity/Comet_Interceptor278279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q130913300> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1414> .
+<http://space-exploration.org/entity/SpaceMission_Gemini_31> <http://www.w3.org/2000/01/rdf-schema#label> "Gemini 31" .
+<http://space-exploration.org/entity/Astronaut_466> <http://www.wikidata.org/prop/direct/P27> "FR" .
+<http://www.wikidata.org/entity/Q8877> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Rover_243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q16025332> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q129> .
+<http://www.wikidata.org/entity/Q38296> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/The_Instituto_Nacional_de_Técnica_Aeroespacial> <http://www.w3.org/2000/01/rdf-schema#label> "The Instituto Nacional de Técnica Aeroespacial" .
+<http://space-exploration.org/entity/Le_Mondefr> <http://www.w3.org/2000/01/rdf-schema#label> "Le Monde.fr" .
+<http://space-exploration.org/entity/Chisholm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/Fairfield> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Location> .
+<http://space-exploration.org/entity/United_States_Navy> <http://www.w3.org/2000/01/rdf-schema#label> "United States Navy" .
+<http://www.wikidata.org/entity/Q312052> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q534597> .
+<http://www.wikidata.org/entity/Q28313> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://www.wikidata.org/entity/Q316978> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q4285> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Dordain> <http://www.w3.org/2000/01/rdf-schema#label> "Dordain" .
+<http://space-exploration.org/entity/SpaceMission_Hubble_11> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_1010> .
+<http://space-exploration.org/entity/US_Government> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://space-exploration.org/entity/Orbiter_231> <http://www.w3.org/2000/01/rdf-schema#label> "Orbiter 231" .
+<http://space-exploration.org/entity/Astronaut_2102> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 2102" .
+<http://www.wikidata.org/entity/Q551124> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/Astronaut_252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://www.wikidata.org/entity/Q4741881> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q89> .
+<http://www.wikidata.org/entity/Q130943940> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://www.wikidata.org/entity/Q362180> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q159> .
+<http://space-exploration.org/entity/Rover_235> <http://space-exploration.org/ontology#orbitAltitude> "1375" .
+<http://space-exploration.org/entity/Lander_225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Astronaut_420> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 420" .
+<http://www.wikidata.org/entity/Q261856> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q709931> .
+<http://space-exploration.org/entity/Martian> <http://www.w3.org/2000/01/rdf-schema#label> "Martian" .
+<wd:Q193701> <http://www.wikidata.org/prop/direct/P1155> "60106971" .
+<http://www.wikidata.org/entity/Q117423783> <http://www.wikidata.org/prop/direct/P571> "-2118-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q22978275> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q87102> .
+<http://space-exploration.org/entity/SpaceMission_New_Horizons_43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://www.wikidata.org/entity/Q618273> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q321> .
+<http://space-exploration.org/entity/SpaceMission_Juno_61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://space-exploration.org/entity/Astronaut_513> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q23548> .
+<http://www.wikidata.org/entity/Q151660> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q188> .
+<http://www.wikidata.org/entity/Q130925112> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://www.wikidata.org/entity/Q117423608> <http://www.wikidata.org/prop/direct/P571> "-1939-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q14942290> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q362> .
+<http://space-exploration.org/entity/Journal_of_the_British_Interplanetary_Society> <http://www.w3.org/2000/01/rdf-schema#label> "Journal of the British Interplanetary Society" .
+<http://www.wikidata.org/entity/Q475> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://www.wikidata.org/entity/Q20682> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Astronaut_525> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 525" .
+<http://space-exploration.org/entity/CSM-107_Columbia> <http://www.w3.org/2000/01/rdf-schema#label> "CSM-107 Columbia" .
+<http://space-exploration.org/entity/the_House_Science_Committee> <http://www.w3.org/2000/01/rdf-schema#label> "the House Science Committee" .
+<http://space-exploration.org/entity/Astronaut_2142> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 2142" .
+<http://space-exploration.org/entity/Astronaut_313> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q60045> .
+<http://www.wikidata.org/entity/Q109846919> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q6686> .
+<http://space-exploration.org/entity/Telescope_155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q96627163> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q89> .
+<http://www.wikidata.org/entity/Q3342820> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q1418> .
+<http://www.wikidata.org/entity/Q971200> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q30> .
+<http://space-exploration.org/entity/Probe_90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q115388242> <http://www.w3.org/2000/01/rdf-schema#label> "Andrea Patassa" .
+<http://www.wikidata.org/entity/Q130930396> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://space-exploration.org/entity/Astronaut_1064> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q209213> .
+<http://space-exploration.org/entity/Astronaut_2119> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 2119" .
+<http://www.wikidata.org/entity/Q947829> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q86> .
+<http://space-exploration.org/entity/Astronaut_750> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 750" .
+<http://www.wikidata.org/entity/Q5749885> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://space-exploration.org/entity/I-HAB_Gateway> <http://www.w3.org/2000/01/rdf-schema#label> "I-HAB Gateway" .
+<http://www.wikidata.org/entity/Q41777420> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q97> .
+<http://www.wikidata.org/entity/Q2576851> <http://www.wikidata.org/prop/direct/P571> "-7500-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q6159974> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q29> .
+<wd:Q18> <http://www.wikidata.org/prop/direct/P8309> "18-197558" .
+<http://space-exploration.org/entity/Astronaut_2421> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q23548> .
+<http://www.wikidata.org/entity/Q9384401> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q8793> .
+<http://www.wikidata.org/entity/Q12924> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/iTWire> <http://www.w3.org/2000/01/rdf-schema#label> "iTWire" .
+<http://space-exploration.org/entity/Kirsten> <http://www.w3.org/2000/01/rdf-schema#label> "Kirsten" .
+<http://www.wikidata.org/entity/Q17220> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q7468> .
+<http://space-exploration.org/entity/SpaceMission_Cassini_46> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_645> .
+<http://www.wikidata.org/entity/Q7326> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Pathfinder_20> <http://space-exploration.org/ontology#launchDate> "2016" .
+<http://www.wikidata.org/entity/Q142082> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q130919364> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1419> .
+<http://space-exploration.org/entity/Stephen_Koenig_Armstrong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://www.wikidata.org/entity/Q385308> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q6742> .
+<http://www.wikidata.org/entity/Q117423785> <http://www.wikidata.org/prop/direct/P571> "-2118-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/Telescope_19> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Astronaut_1642> <http://www.wikidata.org/prop/direct/P27> "JP" .
+<http://www.wikidata.org/entity/Q15155853> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q311> .
+<http://space-exploration.org/entity/Moiseev> <http://www.w3.org/2000/01/rdf-schema#label> "Moiseev" .
+<http://www.wikidata.org/entity/Q98398333> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q23548> .
+<http://www.wikidata.org/entity/Q17206> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q362261> .
+<http://space-exploration.org/entity/Astronaut_2601> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q23548> .
+<http://space-exploration.org/entity/University_of_Toledo> <http://www.w3.org/2000/01/rdf-schema#label> "University of Toledo" .
+<http://www.wikidata.org/entity/Q844119> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q300> .
+<http://space-exploration.org/entity/Adkins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<wd:Q23548> <http://www.wikidata.org/prop/direct/P1482> <https://aviation.stackexchange.com/tags/nasa> .
+<http://www.wikidata.org/entity/Q719921> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q30> .
+<http://space-exploration.org/entity/Seager> <http://www.w3.org/2000/01/rdf-schema#label> "Seager" .
+<http://www.wikidata.org/entity/Q27327> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q7240> .
+<http://www.wikidata.org/entity/Q191168> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q52> .
+<http://www.wikidata.org/entity/Q130996918> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://space-exploration.org/entity/SpaceMission_Voyager_18> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_417> .
+<http://space-exploration.org/entity/Astronaut_1616> <http://www.wikidata.org/prop/direct/P27> "CA" .
+<http://space-exploration.org/entity/Astronaut_2481> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q193701> .
+<http://www.wikidata.org/entity/Q3338735> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q413> .
+<http://www.wikidata.org/entity/Q138313482> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q66> .
+<http://space-exploration.org/entity/Astronaut_1395> <http://www.wikidata.org/prop/direct/P27> "US" .
+<http://space-exploration.org/entity/SpaceMission_Artemis_34> <http://space-exploration.org/ontology#launchDate> "2003" .
+<http://www.wikidata.org/entity/Q3500122> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q66> .
+<http://space-exploration.org/entity/Artemis_VI> <http://www.w3.org/2000/01/rdf-schema#label> "Artemis VI" .
+<http://space-exploration.org/entity/Telescope_215> <http://space-exploration.org/ontology#orbitAltitude> "1275" .
+<http://space-exploration.org/entity/Astronaut_2516> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q193534> .
+<http://www.wikidata.org/entity/P2685> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q4686137> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q7240> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Pathfinder_58> <http://www.w3.org/2000/01/rdf-schema#label> "Mars Pathfinder 58" .
+<http://www.wikidata.org/entity/Q16524928> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q361> .
+<http://www.wikidata.org/entity/Q495158> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/SpaceMission_Apollo_2> <http://www.w3.org/2000/01/rdf-schema#label> "Apollo 2" .
+<http://www.wikidata.org/entity/Q465235> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/SpaceMission_Pioneer_96> <http://space-exploration.org/ontology#launchDate> "2006" .
+<http://www.wikidata.org/entity/Q7482> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Colombia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Location> .
+<http://space-exploration.org/entity/Probe_202> <http://www.w3.org/2000/01/rdf-schema#label> "Probe 202" .
+<http://space-exploration.org/entity/Astronaut_732> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q875744> .
+<http://space-exploration.org/entity/Windows> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Orbiter_179> <http://www.w3.org/2000/01/rdf-schema#label> "Orbiter 179" .
+<http://www.wikidata.org/entity/Q956842> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q42262> .
+<http://space-exploration.org/entity/Probe_230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q857018> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q21767> .
+<wd:Q23548> <http://www.wikidata.org/prop/direct/P355> <http://www.wikidata.org/entity/Q30264499> .
+<http://www.wikidata.org/entity/Q270419> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/SpaceMission_Cassini_36> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q23548> .
+<http://space-exploration.org/entity/SpaceMission_Voyager_36> <http://www.w3.org/2000/01/rdf-schema#label> "Voyager 36" .
+<http://www.wikidata.org/entity/Q109875368> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q6686> .
+<http://www.wikidata.org/entity/Q130998213> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://space-exploration.org/entity/Telescope_46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/SpaceMission_Apollo_84> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_83> .
+<http://space-exploration.org/entity/Astronaut_1475> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q66526> .
+<http://www.wikidata.org/entity/Q4937142> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q66> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Express_59> <http://space-exploration.org/ontology#launchDate> "1996" .
+<http://www.wikidata.org/entity/Q5848916> <http://www.wikidata.org/prop/direct/P571> "-1468-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/Astronaut_1664> <http://www.wikidata.org/prop/direct/P27> "DE" .
+<http://space-exploration.org/entity/SpaceMission_Mars_Pathfinder_6> <http://space-exploration.org/ontology#launchDate> "2002" .
+<http://www.wikidata.org/entity/Q221269> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q974431> .
+<http://www.wikidata.org/entity/Q2455489> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q1418> .
+<http://space-exploration.org/entity/Than> <http://www.w3.org/2000/01/rdf-schema#label> "Than" .
+<http://space-exploration.org/entity/SpaceMission_Juno_63> <http://www.w3.org/2000/01/rdf-schema#label> "Juno 63" .
+<http://space-exploration.org/entity/SpaceMission_Hubble_45> <http://www.w3.org/2000/01/rdf-schema#label> "Hubble 45" .
+<http://space-exploration.org/entity/SpaceMission_Apollo_74> <http://space-exploration.org/ontology#launchDate> "1969" .
+<http://space-exploration.org/entity/Maass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/Astronaut_80> <http://www.wikidata.org/prop/direct/P27> "DE" .
+<http://space-exploration.org/entity/Astronaut_1270> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Astronaut_1414> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Astronaut_1048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://www.wikidata.org/entity/Q64504533> <http://www.wikidata.org/prop/direct/P571> "-4000-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/Astronaut_1487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/SpaceMission_Artemis_71> <http://space-exploration.org/ontology#launchDate> "1975" .
+<http://www.wikidata.org/entity/Q25038> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q25387> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/SpaceMission_TESS_79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://www.wikidata.org/entity/Q1422037> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q79> .
+<http://www.wikidata.org/entity/Q305408> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/Astronaut_1897> <http://www.wikidata.org/prop/direct/P27> "FR" .
+<http://space-exploration.org/entity/SpaceMission_Chandra_70> <http://space-exploration.org/ontology#launchDate> "1998" .
+<http://www.wikidata.org/entity/Q1193752> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q66> .
+<http://www.wikidata.org/entity/Q1633048> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q928034> .
+<http://space-exploration.org/entity/Satellite_123> <http://www.w3.org/2000/01/rdf-schema#label> "Satellite 123" .
+<http://www.wikidata.org/entity/Q605955> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q66> .
+<http://space-exploration.org/entity/Probe_156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/INTEGRAL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://www.wikidata.org/entity/Q557286> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q88466> .
+<http://space-exploration.org/entity/SpaceMission_Juno_72> <http://space-exploration.org/ontology#launchDate> "1991" .
+<http://space-exploration.org/entity/Bloomsbury_Academic> <http://www.w3.org/2000/01/rdf-schema#label> "Bloomsbury Academic" .
+<http://www.wikidata.org/entity/Q1537473> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q246> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Pathfinder_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://space-exploration.org/entity/Lander_241> <http://www.w3.org/2000/01/rdf-schema#label> "Lander 241" .
+<http://space-exploration.org/entity/SpaceMission_Juno_86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://space-exploration.org/entity/Astronaut_1270> <http://www.wikidata.org/prop/direct/P27> "RU" .
+<http://space-exploration.org/entity/Astronaut_2131> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 2131" .
+<http://space-exploration.org/entity/North_Texas_Research_Station> <http://www.w3.org/2000/01/rdf-schema#label> "North Texas Research Station" .
+<http://www.wikidata.org/entity/Q81499> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q97> .
+<http://space-exploration.org/entity/HD_84406_-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Alpat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/Science_News> <http://www.w3.org/2000/01/rdf-schema#label> "Science News" .
+<http://www.wikidata.org/entity/Q240769> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://www.wikidata.org/entity/Q124251573> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q106497962> .
+<http://space-exploration.org/entity/Orbiter_133> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q60045> .
+<http://space-exploration.org/entity/Astronaut_2273> <http://www.wikidata.org/prop/direct/P27> "CA" .
+<http://space-exploration.org/entity/POLSA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Location> .
+<http://space-exploration.org/entity/SpaceMission_Voyager_86> <http://www.w3.org/2000/01/rdf-schema#label> "Voyager 86" .
+<http://www.wikidata.org/entity/Q660865> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q362> .
+<http://space-exploration.org/entity/ApolloSoyuz> <http://www.w3.org/2000/01/rdf-schema#label> "Apollo–Soyuz" .
+<http://www.wikidata.org/entity/Q28716025> <http://www.w3.org/2000/01/rdf-schema#label> "Mariam Fardous" .
+<http://space-exploration.org/entity/Probe_194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Rover_197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q194082> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q345678> .
+<http://space-exploration.org/entity/Astronaut_71> <http://www.wikidata.org/prop/direct/P27> "DE" .
+<http://www.wikidata.org/entity/Q130894538> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://www.wikidata.org/entity/Q2498503> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q1418> .
+<http://space-exploration.org/entity/SpaceMission_Gemini_34> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_133> .
+<http://www.wikidata.org/entity/Q130942643> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1419> .
+<http://space-exploration.org/entity/Stephanie> <http://www.w3.org/2000/01/rdf-schema#label> "Stephanie" .
+<http://space-exploration.org/entity/Orbiter_158> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q193534> .
+<http://space-exploration.org/entity/Telescope_107> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q66526> .
+<http://space-exploration.org/entity/Altoona_Area> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Location> .
+<http://www.wikidata.org/entity/Q12955> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://www.wikidata.org/entity/Q4673125> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q68> .
+<http://space-exploration.org/entity/Abernathy> <http://www.w3.org/2000/01/rdf-schema#label> "Abernathy" .
+<http://space-exploration.org/entity/SpaceMission_Cassini_32> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q193534> .
+<http://www.wikidata.org/entity/Q722390> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q30> .
+<http://space-exploration.org/entity/Astronaut_1447> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q60045> .
+<http://space-exploration.org/entity/SpaceMission_Parker_Solar_Probe_54> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q23548> .
+<http://www.wikidata.org/entity/Q30323480> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q30> .
+<http://space-exploration.org/entity/Astronaut_2852> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 2852" .
+<http://www.wikidata.org/entity/Q1143968> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q539337> .
+<http://www.wikidata.org/entity/Q827094> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q574124> .
+<http://www.wikidata.org/entity/Q12785> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://www.wikidata.org/entity/Q49285> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q41506> .
+<http://space-exploration.org/entity/Probe_54> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q23548> .
+<http://space-exploration.org/entity/Astronaut_2616> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/Orbiter_247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q18931911> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q336> .
+<http://space-exploration.org/entity/Pancoast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://www.wikidata.org/entity/Q45991> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Astronaut_213> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q193701> .
+<http://space-exploration.org/entity/Richard_Garriotts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/AMS_Collaboration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://space-exploration.org/entity/Astronaut_2293> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q60045> .
+<http://space-exploration.org/entity/Astronaut_2335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/SpaceMission_TESS_81> <http://www.w3.org/2000/01/rdf-schema#label> "TESS 81" .
+<http://www.wikidata.org/entity/Q8468> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Astronaut_327> <http://www.wikidata.org/prop/direct/P27> "CN" .
+<http://space-exploration.org/entity/Kirsten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://www.wikidata.org/entity/Q3499300> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q30> .
+<http://www.wikidata.org/entity/Q123989810> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q130> .
+<http://space-exploration.org/entity/Astronaut_2686> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q167751> .
+<http://www.wikidata.org/entity/Q250652> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q361> .
+<http://www.wikidata.org/entity/Q4985> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://www.wikidata.org/entity/Q131076515> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1413> .
+<http://space-exploration.org/entity/Astronaut_1092> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q875744> .
+<http://www.wikidata.org/entity/Q717342> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q1338925> .
+<http://www.wikidata.org/entity/Q12983> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Astronaut_768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/Astronaut_1716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://www.wikidata.org/entity/Q471380> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q632891> .
+<http://www.wikidata.org/entity/Q32266> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q23548> .
+<http://www.wikidata.org/entity/Q18156397> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q7233> .
+<http://space-exploration.org/entity/Venera_4> <http://www.w3.org/2000/01/rdf-schema#label> "Venera 4" .
+<http://space-exploration.org/entity/Viola_Louise> <http://www.w3.org/2000/01/rdf-schema#label> "Viola Louise" .
+<http://space-exploration.org/entity/SpaceMission_Gemini_59> <http://space-exploration.org/ontology#launchDate> "2022" .
+<http://space-exploration.org/entity/Astronaut_607> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q167751> .
+<http://space-exploration.org/entity/Astronaut_220> <http://www.wikidata.org/prop/direct/P27> "JP" .
+<http://space-exploration.org/entity/Satellite_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Astronaut_1345> <http://www.wikidata.org/prop/direct/P27> "JP" .
+<http://space-exploration.org/entity/Lander_203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q15949493> <http://www.wikidata.org/prop/direct/P571> "-6199-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/SpaceMission_Hubble_82> <http://space-exploration.org/ontology#launchDate> "2007" .
+<http://space-exploration.org/entity/Astronaut_1461> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1461" .
+<http://www.wikidata.org/entity/Q20078720> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q197> .
+<http://www.wikidata.org/entity/Q220716> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q428> .
+<http://www.wikidata.org/entity/Q2623647> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q6742> .
+<http://space-exploration.org/entity/Astronaut_1674> <http://www.wikidata.org/prop/direct/P27> "US" .
+<http://space-exploration.org/entity/European_Technology_Exposure_Facility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://space-exploration.org/entity/SpaceMission_Venus_Express_53> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q66526> .
+<http://space-exploration.org/entity/SpaceMission_Artemis_82> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_381> .
+<http://space-exploration.org/entity/SpaceMission_Pioneer_94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://www.wikidata.org/entity/Q281355> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q720194> .
+<http://www.wikidata.org/entity/Q534895> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/Astronaut_1040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/Astronaut_1966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/Satellite_7> <http://www.w3.org/2000/01/rdf-schema#label> "Satellite 7" .
+<http://www.wikidata.org/entity/Q316879> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q316134> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q1490917> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q248> .
+<http://www.wikidata.org/entity/Q37623> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/Progress_MS-31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/SpaceMission_Juno_8> <http://www.w3.org/2000/01/rdf-schema#label> "Juno 8" .
+<http://space-exploration.org/entity/James_Webb_Space_Telescopes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Location> .
+<http://space-exploration.org/entity/Michael_V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://www.wikidata.org/entity/Q9075> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q5> .
+<http://www.wikidata.org/entity/Q440303> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q30> .
+<http://space-exploration.org/entity/Orbiter_56> <http://www.w3.org/2000/01/rdf-schema#label> "Orbiter 56" .
+<http://www.wikidata.org/entity/Q127854> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/Astronaut_2911> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 2911" .
+<http://space-exploration.org/entity/Astronaut_2611> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 2611" .
+<http://www.wikidata.org/entity/Q1645716> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q1418> .
+<http://space-exploration.org/entity/Lander_244> <http://space-exploration.org/ontology#operatedBy> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Astronaut_1129> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q167751> .
+<http://space-exploration.org/entity/SpaceMission_Gemini_63> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q23548> .
+<http://www.wikidata.org/entity/P5368> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q16209731> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q4> .
+<http://space-exploration.org/entity/Penguin_Books> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://space-exploration.org/entity/Hinners> <http://www.w3.org/2000/01/rdf-schema#label> "Hinners" .
+<http://space-exploration.org/entity/Aguilar> <http://www.w3.org/2000/01/rdf-schema#label> "Aguilar" .
+<http://space-exploration.org/entity/Orbiter_31> <http://space-exploration.org/ontology#orbitAltitude> "355" .
+<http://space-exploration.org/entity/Orbiter_239> <http://www.w3.org/2000/01/rdf-schema#label> "Orbiter 239" .
+<http://space-exploration.org/entity/Astronaut_2262> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 2262" .
+<http://space-exploration.org/entity/Elvis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/Astronaut_2028> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 2028" .
+<http://space-exploration.org/entity/SpaceMission_Voyager_36> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q23548> .
+<http://space-exploration.org/entity/Cernan261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Person> .
+<http://space-exploration.org/entity/the_Kibo_Japanese_Experiment_Module_Pressurized_Module> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Mercy_HealthFairfield_Hospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://space-exploration.org/entity/Flyer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Astronaut_2851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/International_Business_Publications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Organization> .
+<http://www.wikidata.org/entity/Q130920820> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://www.wikidata.org/entity/Q767221> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q125993221> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q7233> .
+<http://space-exploration.org/entity/Seán_Dorans> <http://www.w3.org/2000/01/rdf-schema#label> "Seán Doran's" .
+<http://www.wikidata.org/entity/Q131001380> <http://www.wikidata.org/prop/direct/P797> <http://www.wikidata.org/entity/Q1405> .
+<http://www.wikidata.org/entity/Q507894> <http://www.wikidata.org/prop/direct/P106> <http://www.wikidata.org/entity/Q11631> .
+<http://www.wikidata.org/entity/Q5901134> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q24176131> .
+<http://space-exploration.org/entity/Little_West_Crater> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Location> .
+<http://space-exploration.org/entity/Astronaut_606> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 606" .
+<http://space-exploration.org/entity/Astronaut_1298> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q209213> .
+<http://space-exploration.org/entity/Astronaut_1763> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q66526> .
+<http://space-exploration.org/entity/SpaceMission_Artemis_63> <http://space-exploration.org/ontology#launchDate> "1967" .
+<http://space-exploration.org/entity/Astronaut_587> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q209213> .
+<http://www.wikidata.org/entity/Q100272246> <http://www.wikidata.org/prop/direct/P1029> <http://www.wikidata.org/entity/Q100264578> .
+<http://www.wikidata.org/entity/Q255352> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q361> .
+<http://www.wikidata.org/entity/Q720361> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q579968> .
+<http://space-exploration.org/entity/SpaceMission_Voyager_29> <http://space-exploration.org/ontology#launchDate> "2001" .
+<http://space-exploration.org/entity/FOREST-3> <http://www.w3.org/2000/01/rdf-schema#label> "FOREST-3" .
+<http://space-exploration.org/entity/Astronaut_1199> <http://www.wikidata.org/prop/direct/P27> "EU" .
+<http://www.wikidata.org/entity/Q137737519> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/Astronaut_974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/WMAP> <http://www.w3.org/2000/01/rdf-schema#label> "WMAP" .
+<http://space-exploration.org/entity/Astronaut_2168> <http://www.wikidata.org/prop/direct/P27> "DE" .
+<http://space-exploration.org/entity/SpaceMission_Mercury_30> <http://www.w3.org/2000/01/rdf-schema#label> "Mercury 30" .
+<http://www.wikidata.org/entity/Q21657916> <http://www.w3.org/2000/01/rdf-schema#label> "Otvazhnaya" .
+<http://space-exploration.org/entity/Warner_Bros_Discovery> <http://www.w3.org/2000/01/rdf-schema#label> "Warner Bros Discovery" .
+<http://space-exploration.org/entity/Astronaut_2093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://www.wikidata.org/entity/Q440251> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q30> .
+<http://space-exploration.org/entity/SpaceMission_Artemis_46> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q5> .
+<http://space-exploration.org/entity/SpaceMission_Artemis_41> <http://space-exploration.org/ontology#launchDate> "2010" .
+<http://space-exploration.org/entity/Ascent_Abort-2_test> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/SpaceMission_Gemini_50> <http://www.w3.org/2000/01/rdf-schema#label> "Gemini 50" .
+<http://space-exploration.org/entity/SpaceMission_Cassini_31> <http://www.w3.org/2000/01/rdf-schema#label> "Cassini 31" .
+<http://space-exploration.org/entity/Indian_Space_Research_Organisation> <http://www.w3.org/2000/01/rdf-schema#label> "Indian Space Research Organisation" .
+<http://www.wikidata.org/entity/Q11701314> <http://www.wikidata.org/prop/direct/P361> <http://www.wikidata.org/entity/Q20> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Pathfinder_79> <http://space-exploration.org/ontology#launchDate> "2010" .
+<http://space-exploration.org/entity/SpaceMission_Venus_Express_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#SpaceMission> .
+<http://space-exploration.org/entity/Astronaut_463> <http://www.wikidata.org/prop/direct/P27> "JP" .
+<http://space-exploration.org/entity/SpaceMission_Mercury_79> <http://space-exploration.org/ontology#launchDate> "1980" .
+<http://space-exploration.org/entity/Keel> <http://www.w3.org/2000/01/rdf-schema#label> "Keel" .
+<http://space-exploration.org/entity/Astronaut_2532> <http://www.wikidata.org/prop/direct/P108> <http://www.wikidata.org/entity/Q875744> .
+<http://space-exploration.org/entity/Projects_Mercury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q134775407> <http://www.wikidata.org/prop/direct/P571> "-1539-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/Astronaut_2012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/SpaceMission_Rosetta_98> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q66526> .
+<http://space-exploration.org/entity/SpaceMission_Parker_Solar_Probe_49> <http://www.w3.org/2000/01/rdf-schema#label> "Parker Solar Probe 49" .
+<http://www.wikidata.org/entity/P8877> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://www.wikidata.org/entity/Q117423773> <http://www.wikidata.org/prop/direct/P571> "-2118-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q96627105> <http://www.wikidata.org/prop/direct/P279> <http://www.wikidata.org/entity/Q89> .
+<http://space-exploration.org/entity/Astronaut_198> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 198" .
+<http://space-exploration.org/entity/Astronaut_467> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 467" .
+<http://www.wikidata.org/entity/Q270479> <http://www.wikidata.org/prop/direct/P17> <http://www.wikidata.org/entity/Q16> .
+<http://space-exploration.org/entity/Lander_231> <http://www.w3.org/2000/01/rdf-schema#label> "Lander 231" .
+<http://space-exploration.org/entity/STS-51L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://space-exploration.org/entity/Lunar_Cruiser134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Spacecraft> .
+<http://www.wikidata.org/entity/Q328139> <http://www.wikidata.org/prop/direct/P176> <http://www.wikidata.org/entity/Q6742> .
+<http://space-exploration.org/entity/Astronaut_924> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 924" .
+<http://space-exploration.org/entity/SpaceMission_Apollo_48> <http://space-exploration.org/ontology#crewedBy> <http://space-exploration.org/entity/Astronaut_47> .
+<http://www.wikidata.org/entity/Q97286030> <http://www.wikidata.org/prop/direct/P31> <http://www.wikidata.org/entity/Q4> .
+<http://space-exploration.org/entity/SpaceMission_Mars_Odyssey_15> <http://www.w3.org/2000/01/rdf-schema#label> "Mars Odyssey 15" .
+<http://space-exploration.org/entity/Astronaut_1290> <http://www.w3.org/2000/01/rdf-schema#label> "Astronaut 1290" .
+<http://www.wikidata.org/entity/Q345288> <http://www.wikidata.org/prop/direct/P27> <http://www.wikidata.org/entity/Q15180> .
+<http://space-exploration.org/entity/Lander_115> <http://www.w3.org/2000/01/rdf-schema#label> "Lander 115" .
+<http://space-exploration.org/entity/Astronaut_2621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://space-exploration.org/ontology#Astronaut> .
+<http://space-exploration.org/entity/Astronaut_2641> <http://www.wikidata.org/prop/direct/P27> "JP" .
+<http://www.wikidata.org/entity/Q339489> <http://www.wikidata.org/prop/direct/P571> "-3499-01-01T00:00:00Z" .
+<http://space-exploration.org/entity/SpaceMission_Mars_Express_32> <http://space-exploration.org/ontology#launchedBy> <http://www.wikidata.org/entity/Q193534> .
+<http://space-exploration.org/entity/PMA-2> <http://www.w3.org/2000/01/rdf-schema#label> "PMA-2" .
